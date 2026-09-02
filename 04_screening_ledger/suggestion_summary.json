@@ -1,0 +1,28 @@
+{
+  "search_cutoff": "2026-08-28",
+  "screening_reviewers": 1,
+  "records_identified": 4986,
+  "duplicate_records_removed": 512,
+  "superseded_preprint_records_removed": 10,
+  "records_for_screening": 4464,
+  "database_matched_current_corpus_records": 42,
+  "automation_suggestion_counts": {
+    "exclude candidate": 2681,
+    "insufficient metadata": 22,
+    "retain for author review": 924,
+    "supplementary evidence candidate": 837
+  },
+  "automation_confidence_counts": {
+    "high": 3522,
+    "low": 22,
+    "medium": 920
+  },
+  "language_metadata_counts": {
+    "Chinese": 9,
+    "English": 764,
+    "not recorded": 3691
+  },
+  "author_confirmed_title_abstract_decisions": 0,
+  "author_confirmed_full_text_decisions": 0,
+  "stage_specific_prisma_counts_ready": false
+}

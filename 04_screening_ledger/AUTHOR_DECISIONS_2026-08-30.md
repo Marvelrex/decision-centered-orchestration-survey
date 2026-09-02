@@ -1,0 +1,3 @@
+﻿- SCR-2144 (Green Video Transcoding, IEEE Access 2025): excluded by author 2026-08-30. Decision object is video transcoding, not container orchestration. Code F7, may remain supporting evidence.
+- Duplicate PAX bibliography entry 10.1145/3757892.3757902 deleted 2026-08-30 at author instruction, canonical key dong2025towards. New Figure 4 (facet classification tree, fig5_facet_tree) added to v5 at author instruction.
+- Screening CLOSED by author 2026-08-30. Corpus frozen at 84 records (40 core). The 90 uncertain records and 8 unassessed candidates remain excluded. Reviewer package: PRISMA_Reviewer_Package_2026-08-30/

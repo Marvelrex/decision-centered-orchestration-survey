@@ -1,0 +1,48 @@
+{
+  "search_cutoff": "2026-08-28",
+  "screening_reviewers": 1,
+  "records_identified": 4986,
+  "duplicate_records_removed": 512,
+  "superseded_preprint_records_removed": 10,
+  "records_for_screening": 4464,
+  "database_matched_current_corpus_records": 42,
+  "automation_suggestion_counts": {
+    "exclude candidate": 2820,
+    "insufficient metadata": 90,
+    "retain for author review": 50,
+    "supplementary evidence candidate": 1504
+  },
+  "automation_confidence_counts": {
+    "high": 4372,
+    "low": 90,
+    "medium": 2
+  },
+  "language_metadata_counts": {
+    "Chinese": 9,
+    "English": 764,
+    "not recorded": 3691
+  },
+  "author_confirmed_title_abstract_decisions": 0,
+  "author_confirmed_full_text_decisions": 0,
+  "stage_specific_prisma_counts_ready": false,
+  "auto_title_abstract_screening_authorized": true,
+  "auto_title_abstract_screening_date": "2026-08-29",
+  "core_intervention_cap": 50,
+  "protected_current_core_candidates": 42,
+  "new_core_candidate_cap": 8,
+  "strict_new_candidate_pool": 9,
+  "selected_new_core_candidates": 8,
+  "auto_title_abstract_decision_counts": {
+    "exclude": 4324,
+    "include for full text": 50,
+    "uncertain": 90
+  },
+  "auto_title_abstract_reason_counts": {
+    "E1 No container or cloud-native orchestration relation": 1632,
+    "E2 No scheduling or resource-orchestration decision": 488,
+    "E3 No sustainability objective, signal, constraint, or outcome": 690,
+    "E4 Review or non-primary research item": 837,
+    "E5 Non-English record": 10,
+    "E7 Outside core synthesis but potentially useful as supporting evidence": 667
+  }
+}

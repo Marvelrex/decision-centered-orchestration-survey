@@ -1,0 +1,44 @@
+{
+  "automation_suggestions": [
+    "retain for author review",
+    "exclude candidate",
+    "supplementary evidence candidate",
+    "insufficient metadata"
+  ],
+  "title_abstract_decisions": [
+    "include for full text",
+    "exclude",
+    "uncertain"
+  ],
+  "title_abstract_exclusion_reasons": [
+    "E1 No container or cloud-native orchestration relation",
+    "E2 No scheduling or resource-orchestration decision",
+    "E3 No sustainability objective, signal, constraint, or outcome",
+    "E4 Review or non-primary research item",
+    "E5 Non-English record",
+    "E6 Insufficient title or abstract information",
+    "E7 Outside core synthesis but potentially useful as supporting evidence"
+  ],
+  "full_text_statuses": [
+    "sought",
+    "retrieved",
+    "not retrieved",
+    "not applicable"
+  ],
+  "full_text_decisions": [
+    "include",
+    "exclude",
+    "uncertain"
+  ],
+  "full_text_exclusion_reasons": [
+    "F1 No container or cloud-native orchestration relation",
+    "F2 No scheduling or resource-orchestration decision",
+    "F3 No sustainability objective, signal, constraint, or outcome",
+    "F4 Review or non-primary research item",
+    "F5 Insufficient technical detail for synthesis",
+    "F6 Full text unavailable",
+    "F7 Outside the predefined core synthesis boundary",
+    "F8 Superseded or not an independent report"
+  ],
+  "decision_ownership": "Automation suggestions support prioritization only. The single human reviewer must complete the reviewer and full-text fields."
+}

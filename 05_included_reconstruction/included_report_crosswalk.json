@@ -1,0 +1,3854 @@
+[
+  {
+    "cite_key": "townend2019improving",
+    "intervention_name": "Holistic Scheduling",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Improving data center efficiency through holistic scheduling in kubernetes",
+      "authors": "Townend, Paul and Clement, Stephen and Burdett, Dan and Yang, Renyu and Shaw, Joe and Slater, Brad and Xu, Jie",
+      "year": "2019",
+      "venue": "2019 IEEE International Conference on Service-Oriented System Engineering (SOSE)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "verified title variant",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8705815",
+        "title": "Invited Paper: Improving Data Center Efficiency Through Holistic Scheduling In Kubernetes",
+        "year": "2019",
+        "doi": "10.1109/sose.2019.00030"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8705815",
+      "title": "Invited Paper: Improving Data Center Efficiency Through Holistic Scheduling In Kubernetes",
+      "year": "2019",
+      "doi": "10.1109/sose.2019.00030"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "rocha2019heats",
+    "intervention_name": "HEATS",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{Heats}: Heterogeneity-and energy-aware task-based scheduling",
+      "authors": "Rocha, Isabelly and G{\\\"o}ttel, Christian and Felber, Pascal and Pasin, Marcelo and Rouvoy, Romain and Schiavoni, Valerio",
+      "year": "2019",
+      "venue": "2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus",
+      "arXiv"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8671554",
+        "title": "Heats: Heterogeneity-and Energy-Aware Task-Based Scheduling",
+        "year": "2019",
+        "doi": "10.1109/empdp.2019.8671554"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85063908993",
+        "title": "Heats: Heterogeneity-and Energy-Aware Task-Based Scheduling",
+        "year": "2019",
+        "doi": "10.1109/empdp.2019.8671554"
+      },
+      {
+        "source": "arXiv",
+        "source_id": "1906.11321",
+        "title": "HEATS: Heterogeneity- and Energy-Aware Task-based Scheduling",
+        "year": "2019",
+        "doi": ""
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8671554",
+      "title": "Heats: Heterogeneity-and Energy-Aware Task-Based Scheduling",
+      "year": "2019",
+      "doi": "10.1109/empdp.2019.8671554"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "souza2024peaks",
+    "intervention_name": "PEAKS",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "{PEAKS}: Power Efficiency Aware {Kubernetes} Scheduler",
+      "authors": "{PEAKS Project (Red Hat / IBM / Boston University)}",
+      "year": "2024",
+      "venue": "",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": "Open-source project and design documentation, no peer-reviewed publication. Accessed: 2026-06-11"
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "souza2024peaks",
+      "title": "{PEAKS}: Power Efficiency Aware {Kubernetes} Scheduler",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "kumari2025npaks",
+    "intervention_name": "NPAKS",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Real-Time Node's Power-Aware {Kubernetes} Scheduler in a Cloud Environment",
+      "authors": "Kumari, Kiran and Dakhane, Dhananjay M.",
+      "year": "2025",
+      "venue": "Artificial Intelligence Based Smart and Secured Applications (ASCIS 2024)",
+      "doi": "10.1007/978-3-031-86302-8_29",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105003910019",
+        "title": "Real-Time Node’s Power-Aware Kubernetes Scheduler in a Cloud Environment",
+        "year": "2025",
+        "doi": "10.1007/978-3-031-86302-8_29"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-105003910019",
+      "title": "Real-Time Node’s Power-Aware Kubernetes Scheduler in a Cloud Environment",
+      "year": "2025",
+      "doi": "10.1007/978-3-031-86302-8_29"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "rattihalli2023fine",
+    "intervention_name": "Fine-Grained Heterog.",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Fine-grained heterogeneous execution framework with energy aware scheduling",
+      "authors": "Rattihalli, Gourav and Hogade, Ninad and Dhakal, Aditya and Frachtenberg, Eitan and Enriquez, Rolando Pablo Hong and Bruel, Pedro and Mishra, Alok and Milojicic, Dejan",
+      "year": "2023",
+      "venue": "2023 IEEE 16th International Conference on Cloud Computing (CLOUD)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254957",
+        "title": "Fine-Grained Heterogeneous Execution Framework with Energy Aware Scheduling",
+        "year": "2023",
+        "doi": "10.1109/cloud60044.2023.00014"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85174290226",
+        "title": "Fine-Grained Heterogeneous Execution Framework with Energy Aware Scheduling",
+        "year": "2023",
+        "doi": "10.1109/cloud60044.2023.00014"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254957",
+      "title": "Fine-Grained Heterogeneous Execution Framework with Energy Aware Scheduling",
+      "year": "2023",
+      "doi": "10.1109/cloud60044.2023.00014"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "xu2014virtual",
+    "intervention_name": "Green VDC",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "A virtual data center deployment model based on the green cloud computing",
+      "authors": "Xu, Lijun and Li, Chunlin and Li, Layuan and Liu, Yanpei and Yang, Zhiyong and Liu, Yunchang",
+      "year": "2014",
+      "venue": "2014 IEEE/ACIS 13th International Conference on Computer and Information Science (ICIS)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "xu2014virtual",
+      "title": "A virtual data center deployment model based on the green cloud computing",
+      "year": "2014",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "zhang2023carbon",
+    "intervention_name": "VM Placement (optical)",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "HE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Carbon-efficient Virtual Machine Placement in Cloud Datacenters over Optical Networks",
+      "authors": "Zhang, Jiaxiang and Wang, Wei and Xiao, Yanran and Hu, Liyazhou and Li, Yajie and Zhao, Yongli and Zhang, Jie",
+      "year": "2023",
+      "venue": "2023 Opto-Electronics and Communications Conference (OECC)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "zhang2023carbon",
+      "title": "Carbon-efficient Virtual Machine Placement in Cloud Datacenters over Optical Networks",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "coskun2008static",
+    "intervention_name": "Thermal MPSoC",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Static and dynamic temperature-aware scheduling for multiprocessor SoCs",
+      "authors": "Coskun, Ayse K and Rosing, Tajana Simunic and Whisnant, Keith A and Gross, Kenny C",
+      "year": "2008",
+      "venue": "IEEE Trans. Very Large Scale Integr. Syst.",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "coskun2008static",
+      "title": "Static and dynamic temperature-aware scheduling for multiprocessor SoCs",
+      "year": "2008",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "menouer2021kcss",
+    "intervention_name": "KCSS",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{KCSS}: {Kubernetes} container scheduling strategy",
+      "authors": "Menouer, Tarek",
+      "year": "2021",
+      "venue": "The Journal of Supercomputing",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85091507109",
+        "title": "KCSS: Kubernetes container scheduling strategy",
+        "year": "2021",
+        "doi": "10.1007/s11227-020-03427-3"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85091507109",
+      "title": "KCSS: Kubernetes container scheduling strategy",
+      "year": "2021",
+      "doi": "10.1007/s11227-020-03427-3"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "zhou2015carbon",
+    "intervention_name": "Geo Online Control",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Carbon-aware online control of geo-distributed cloud services",
+      "authors": "Zhou, Zhi and Liu, Fangming and Zou, Ruolan and Liu, Jiangchuan and Xu, Hong and Jin, Hai",
+      "year": "2015",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "zhou2015carbon",
+      "title": "Carbon-aware online control of geo-distributed cloud services",
+      "year": "2015",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "radovanovic2022carbon",
+    "intervention_name": "Google CICS",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Carbon-aware computing for datacenters",
+      "authors": "Radovanovi{\\'c}, Ana and Koningstein, Ross and Schneider, Ian and Chen, Bokan and Duarte, Alexandre and Roy, Binz and Xiao, Diyue and Haridasan, Maya and Hung, Patrick and Care, Nick and others",
+      "year": "2023",
+      "venue": "IEEE Transactions on Power Systems",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "radovanovic2022carbon",
+      "title": "Carbon-aware computing for datacenters",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "hanafy2023carbonscaler",
+    "intervention_name": "CarbonScaler",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{CarbonScaler}: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+      "authors": "Hanafy, Walid A and Liang, Qianlin and Bashir, Noman and Irwin, David and Shenoy, Prashant",
+      "year": "2023",
+      "venue": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library",
+      "Scopus",
+      "arXiv"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3652963.3655048",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2024",
+        "doi": "10.1145/3652963.3655048"
+      },
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3626788",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2023",
+        "doi": "10.1145/3626788"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85196362918",
+        "title": "Carbonscaler: Leveraging cloud workload elasticity for optimizing carbon-efficiency",
+        "year": "2024",
+        "doi": "10.1145/3652963.3655048"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85175601124",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2024",
+        "doi": "10.1145/3673660.3655048"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85178142603",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2023",
+        "doi": "10.1145/3626788"
+      },
+      {
+        "source": "arXiv",
+        "source_id": "2302.08681",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2023",
+        "doi": "10.1145/3626788"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3652963.3655048",
+      "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+      "year": "2024",
+      "doi": "10.1145/3652963.3655048"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "ibm2024caspian",
+    "intervention_name": "Caspian",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{Caspian}: A Carbon-aware Workload Scheduler in Multi-Cluster {Kubernetes} Environments",
+      "authors": "Bahreini, Tayebeh and Tantawi, Asser N. and Tardieu, Olivier",
+      "year": "2024",
+      "venue": "32nd International Conference on Modeling, Analysis and Simulation of Computer and Telecommunication Systems ({MASCOTS})",
+      "doi": "10.1109/mascots64422.2024.10786568",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10786568",
+        "title": "Caspian: A Carbon-aware Workload Scheduler in Multi-Cluster Kubernetes Environments",
+        "year": "2024",
+        "doi": "10.1109/mascots64422.2024.10786568"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85215082174",
+        "title": "Caspian: A Carbon-Aware Workload Scheduler in Multi-Cluster Kubernetes Environments",
+        "year": "2024",
+        "doi": "10.1109/mascots64422.2024.10786568"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/mascots/BahreiniTT24",
+        "title": "Caspian: A Carbon-aware Workload Scheduler in Multi-Cluster Kubernetes Environments.",
+        "year": "2024",
+        "doi": "10.1109/mascots64422.2024.10786568"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10786568",
+      "title": "Caspian: A Carbon-aware Workload Scheduler in Multi-Cluster Kubernetes Environments",
+      "year": "2024",
+      "doi": "10.1109/mascots64422.2024.10786568"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "denToonder2024scale",
+    "intervention_name": "S.C.A.L.E.",
+    "analytical_role": "core_intervention",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{S.C.A.L.E}: A {CO2}-Aware Scheduler for {OpenShift} at {ING}",
+      "authors": "Den Toonder, Jurriaan and Braakman, Paul and Durieux, Thomas",
+      "year": "2024",
+      "venue": "Companion Proceedings of the 32nd ACM International Conference on the Foundations of Software Engineering",
+      "doi": "10.1145/3663529.3663862",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3663529.3663862",
+        "title": "S.C.A.L.E: A CO2-Aware Scheduler for OpenShift at ING",
+        "year": "2024",
+        "doi": "10.1145/3663529.3663862"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3663529.3663862",
+      "title": "S.C.A.L.E: A CO2-Aware Scheduler for OpenShift at ING",
+      "year": "2024",
+      "doi": "10.1145/3663529.3663862"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "Microsoft2023",
+    "intervention_name": "Carbon Aware SDK / SCI",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "techreport",
+      "title": "Carbon-aware Computing: Measuring and Reducing the Carbon Intensity Associated with Software in Execution",
+      "authors": "WattTime, Microsoft and Green Software Foundation",
+      "year": "2023",
+      "venue": "Microsoft",
+      "doi": "",
+      "url": "https://news.microsoft.com/wp-content/uploads/prod/sites/418/2023/01/carbon_aware_computing_whitepaper.pdf",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "Microsoft2023",
+      "title": "Carbon-aware Computing: Measuring and Reducing the Carbon Intensity Associated with Software in Execution",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "intel2024tas",
+    "intervention_name": "Intel TAS",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "HC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Telemetry Aware Scheduling (TAS)",
+      "authors": "{Intel Corporation}",
+      "year": "2024",
+      "venue": "",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": "Accessed: 2025-07-20"
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "intel2024tas",
+      "title": "Telemetry Aware Scheduling (TAS)",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "rothman2023rl",
+    "intervention_name": "RLKube",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "An RL-Based Model for Optimized {Kubernetes} Scheduling",
+      "authors": "Rothman, John and Chamanara, Javad",
+      "year": "2023",
+      "venue": "2023 IEEE 31st International Conference on Network Protocols (ICNP)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10355623",
+        "title": "An RL-Based Model for Optimized Kubernetes Scheduling",
+        "year": "2023",
+        "doi": "10.1109/icnp59255.2023.10355623"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85182517484",
+        "title": "An RL-Based Model for Optimized Kubernetes Scheduling",
+        "year": "2023",
+        "doi": "10.1109/icnp59255.2023.10355623"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10355623",
+      "title": "An RL-Based Model for Optimized Kubernetes Scheduling",
+      "year": "2023",
+      "doi": "10.1109/icnp59255.2023.10355623"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "espinosa2024optimizing",
+    "intervention_name": "PPO-DRL K8s",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Optimizing Energy Consumption of {Kubernetes} Clusters with Deep Reinforcement Learning",
+      "authors": "Espinosa, A. and Ulied, D. and Escrig, J. and Fernández-Fernández, A. and Touma, R.",
+      "year": "2024",
+      "venue": "Artificial Intelligence Research and Development",
+      "doi": "10.3233/faia240406",
+      "url": "https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA240406",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85217060384",
+        "title": "Optimizing Energy Consumption of Kubernetes Clusters with Deep Reinforcement Learning",
+        "year": "2024",
+        "doi": "10.3233/faia240406"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85217060384",
+      "title": "Optimizing Energy Consumption of Kubernetes Clusters with Deep Reinforcement Learning",
+      "year": "2024",
+      "doi": "10.3233/faia240406"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "hou2024eets",
+    "intervention_name": "EETS",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{EETS}: An energy-efficient task scheduler in cloud computing based on improved DQN algorithm",
+      "authors": "Hou, Huanhuan and Ismail, Azlan",
+      "year": "2024",
+      "venue": "Journal of King Saud University-Computer and Information Sciences",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "hou2024eets",
+      "title": "{EETS}: An energy-efficient task scheduler in cloud computing based on improved DQN algorithm",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "reddy2023energy",
+    "intervention_name": "RL Workflow",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "An energy efficient {RL} based workflow scheduling in cloud computing",
+      "authors": "Reddy, Pillareddy Vamsheedhar and Reddy, Karri Ganesh",
+      "year": "2023",
+      "venue": "Expert Systems with Applications",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "reddy2023energy",
+      "title": "An energy efficient {RL} based workflow scheduling in cloud computing",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "iftikhar2023hunterplus",
+    "intervention_name": "HunterPlus",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{HunterPlus}: {AI} based energy-efficient task scheduling for cloud--fog computing environments",
+      "authors": "Iftikhar, Sundas and Ahmad, Mirza Mohammad Mufleh and Tuli, Shreshth and Chowdhury, Deepraj and Xu, Minxian and Gill, Sukhpal Singh and Uhlig, Steve",
+      "year": "2023",
+      "venue": "Internet of Things",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "iftikhar2023hunterplus",
+      "title": "{HunterPlus}: {AI} based energy-efficient task scheduling for cloud--fog computing environments",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "malipatil2025energy",
+    "intervention_name": "DQN Workload Sched.",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Energy-Efficient Cloud Computing Through Reinforcement Learning-Based Workload Scheduling.",
+      "authors": "Malipatil, Ashwini R and Paramasivam, ME and Gulyamova, Dilfuza and Saravanan, Aanandha and Ramesh, Janjhyam Venkata Naga and Muniyandy, Elangovan and Ghodhbani, Refka",
+      "year": "2025",
+      "venue": "International Journal of Advanced Computer Science \\& Applications",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "malipatil2025energy",
+      "title": "Energy-Efficient Cloud Computing Through Reinforcement Learning-Based Workload Scheduling.",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "raith2024opportunistic",
+    "intervention_name": "GNN Opportunistic",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Opportunistic Energy-Aware Scheduling for Container Orchestration Platforms Using Graph Neural Networks",
+      "authors": "Raith, Philipp and Rattihalli, Gourav and Dhakal, Aditya and Chalamalasetti, Sai Rahul and Milojicic, Dejan and Frachtenberg, Eitan and Nastic, Stefan and Dustdar, Schahram",
+      "year": "2024",
+      "venue": "2024 IEEE 24th International Symposium on Cluster, Cloud and Internet Computing (CCGrid)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10701405",
+        "title": "Opportunistic Energy-Aware Scheduling for Container Orchestration Platforms Using Graph Neural Networks",
+        "year": "2024",
+        "doi": "10.1109/ccgrid59990.2024.00042"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85207906604",
+        "title": "Opportunistic Energy-Aware Scheduling for Container Orchestration Platforms Using Graph Neural Networks",
+        "year": "2024",
+        "doi": "10.1109/ccgrid59990.2024.00042"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/ccgrid/RaithRDCMFND24",
+        "title": "Opportunistic Energy-Aware Scheduling for Container Orchestration Platforms Using Graph Neural Networks.",
+        "year": "2024",
+        "doi": "10.1109/ccgrid59990.2024.00042"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10701405",
+      "title": "Opportunistic Energy-Aware Scheduling for Container Orchestration Platforms Using Graph Neural Networks",
+      "year": "2024",
+      "doi": "10.1109/ccgrid59990.2024.00042"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "yang2024energy",
+    "intervention_name": "E2DSched",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Energy-efficient {DAG} scheduling with {DVFS} for cloud data centers",
+      "authors": "Yang, Wenbing and Zhao, Mingqiang and Li, Jingbo and Zhang, Xingjun",
+      "year": "2024",
+      "venue": "The Journal of Supercomputing",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "yang2024energy",
+      "title": "Energy-efficient {DAG} scheduling with {DVFS} for cloud data centers",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "kaur2019keids",
+    "intervention_name": "KEIDS",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{KEIDS}: Kubernetes-based energy and interference driven scheduler for industrial {IoT} in edge-cloud ecosystem",
+      "authors": "Kaur, Kuljeet and Garg, Sahil and Kaddoum, Georges and Ahmed, Syed Hassan and Atiquzzaman, Mohammed",
+      "year": "2019",
+      "venue": "IEEE Internet of Things Journal",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825476",
+        "title": "KEIDS: Kubernetes-Based Energy and Interference Driven Scheduler for Industrial IoT in Edge-Cloud Ecosystem",
+        "year": "2020",
+        "doi": "10.1109/jiot.2019.2939534"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85084917974",
+        "title": "KEIDS: Kubernetes-Based Energy and Interference Driven Scheduler for Industrial IoT in Edge-Cloud Ecosystem",
+        "year": "2020",
+        "doi": "10.1109/jiot.2019.2939534"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "journals/iotj/KaurGKAA20",
+        "title": "KEIDS: Kubernetes-Based Energy and Interference Driven Scheduler for Industrial IoT in Edge-Cloud Ecosystem.",
+        "year": "2020",
+        "doi": "10.1109/jiot.2019.2939534"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8825476",
+      "title": "KEIDS: Kubernetes-Based Energy and Interference Driven Scheduler for Industrial IoT in Edge-Cloud Ecosystem",
+      "year": "2020",
+      "doi": "10.1109/jiot.2019.2939534"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "rao2024energy",
+    "intervention_name": "SLA Microservices",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Energy-aware Scheduling Algorithm for Microservices in {Kubernetes} Clouds",
+      "authors": "Rao, Wei and Li, Hongjian",
+      "year": "2025",
+      "venue": "Journal of Grid Computing",
+      "doi": "10.1007/s10723-024-09788-w",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85212508791",
+        "title": "Energy-aware Scheduling Algorithm for Microservices in Kubernetes Clouds",
+        "year": "2025",
+        "doi": "10.1007/s10723-024-09788-w"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85212508791",
+      "title": "Energy-aware Scheduling Algorithm for Microservices in Kubernetes Clouds",
+      "year": "2025",
+      "doi": "10.1007/s10723-024-09788-w"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "Jawaddi2025",
+    "intervention_name": "MDP Autoscaler",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Analyzing Energy-Efficient and Kubernetes-Based Autoscaling of Microservices Using Probabilistic Model Checking",
+      "authors": "Agos Jawaddi, Siti Nuraishah and Ismail, Azlan and Sulaiman, Mohd Suffian and Cardellini, Valeria",
+      "year": "2025",
+      "venue": "Journal of Grid Computing",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85213696655",
+        "title": "Analyzing Energy-Efficient and Kubernetes-Based Autoscaling of Microservices Using Probabilistic Model Checking",
+        "year": "2025",
+        "doi": "10.1007/s10723-024-09789-9"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85213696655",
+      "title": "Analyzing Energy-Efficient and Kubernetes-Based Autoscaling of Microservices Using Probabilistic Model Checking",
+      "year": "2025",
+      "doi": "10.1007/s10723-024-09789-9"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "pradeep2025energy",
+    "intervention_name": "GreenPod",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Energy-Optimized Scheduling for {AIoT} Workloads Using {TOPSIS}",
+      "authors": "Pradeep, Preethika and Al-Masri, Eyhab",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2506.04902",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "formal version preferred",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11105266",
+        "title": "GreenPod: Energy-Optimized Scheduling for AIoT Workloads Using TOPSIS",
+        "year": "2025",
+        "doi": "10.1109/aiiot65859.2025.11105266"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105015437349",
+        "title": "GreenPod: Energy-Optimized Scheduling for AIoT Workloads Using TOPSIS",
+        "year": "2025",
+        "doi": "10.1109/aiiot65859.2025.11105266"
+      }
+    ],
+    "retained_version": "formal publication",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11105266",
+      "title": "GreenPod: Energy-Optimized Scheduling for AIoT Workloads Using TOPSIS",
+      "year": "2025",
+      "doi": "10.1109/aiiot65859.2025.11105266"
+    },
+    "version_action": "replace preprint metadata with formal publication"
+  },
+  {
+    "cite_key": "bellal20253gc",
+    "intervention_name": "3GC",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{3GC}: A deadline-aware and energy-efficient resource allocation scheme for serverless edge computing",
+      "authors": "Bellal, Zouhir and Lahlou, Laaziz and Kara, Nadjia and Murphy, Timothy and Nguyen, Tan Phat",
+      "year": "2025",
+      "venue": "2025 IEEE 22nd Consumer Communications \\& Networking Conference (CCNC)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10976019",
+        "title": "3GC: A Deadline-Aware and Energy-Efficient Resource Allocation Scheme for Serverless Edge Computing",
+        "year": "2025",
+        "doi": "10.1109/ccnc54725.2025.10976019"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105005140255",
+        "title": "3GC: A Deadline-Aware and Energy-Efficient Resource Allocation Scheme for Serverless Edge Computing",
+        "year": "2025",
+        "doi": "10.1109/ccnc54725.2025.10976019"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/ccnc/BellalLKMN25",
+        "title": "3GC: A Deadline-Aware and Energy-Efficient Resource Allocation Scheme for Serverless Edge Computing.",
+        "year": "2025",
+        "doi": "10.1109/ccnc54725.2025.10976019"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10976019",
+      "title": "3GC: A Deadline-Aware and Energy-Efficient Resource Allocation Scheme for Serverless Edge Computing",
+      "year": "2025",
+      "doi": "10.1109/ccnc54725.2025.10976019"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "da2025foa",
+    "intervention_name": "FOA-Energy",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{FOA-Energy}: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum",
+      "authors": "Da Silva, Anderson Andrei and Georgiou, Yiannis and Mercier, Michael and Mouni{\\'e}, Gregory and Trystram, Denis",
+      "year": "2025",
+      "venue": "Proceedings of the 40th ACM/SIGAPP Symposium on Applied Computing",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library",
+      "DBLP",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3672608.3707941",
+        "title": "FOA-Energy: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum",
+        "year": "2025",
+        "doi": "10.1145/3672608.3707941"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105006439356",
+        "title": "FOA-Energy: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum",
+        "year": "2025",
+        "doi": "10.1145/3672608.3707941"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/sac/SilvaGMMT25",
+        "title": "FOA-Energy: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum.",
+        "year": "2025",
+        "doi": "10.1145/3672608.3707941"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3672608.3707941",
+      "title": "FOA-Energy: A Multi-objective Energy-Aware Scheduling Policy for Serverless-based Edge-Cloud Continuum",
+      "year": "2025",
+      "doi": "10.1145/3672608.3707941"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "ajmera2023energy",
+    "intervention_name": "GPSO",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Energy-efficient virtual machine scheduling in IaaS cloud environment using energy-aware green-particle swarm optimization",
+      "authors": "Ajmera, Kashav and Tewari, Tribhuwan Kumar",
+      "year": "2023",
+      "venue": "International Journal of Information Technology",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "ajmera2023energy",
+      "title": "Energy-efficient virtual machine scheduling in IaaS cloud environment using energy-aware green-particle swarm optimization",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "kepler",
+    "intervention_name": "Kepler",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{Kepler}: A framework to calculate the energy consumption of containerized applications",
+      "authors": "Amaral, Marcelo and Chen, Huamin and Chiba, Tatsuhiro and Nakazawa, Rina and Choochotkaew, Sunyanan and Lee, Eun Kyung and Eilam, Tamar",
+      "year": "2023",
+      "venue": "2023 IEEE 16th International Conference on Cloud Computing (CLOUD)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254956",
+        "title": "Kepler: A Framework to Calculate the Energy Consumption of Containerized Applications",
+        "year": "2023",
+        "doi": "10.1109/cloud60044.2023.00017"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85174254307",
+        "title": "Kepler: A Framework to Calculate the Energy Consumption of Containerized Applications",
+        "year": "2023",
+        "doi": "10.1109/cloud60044.2023.00017"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254956",
+      "title": "Kepler: A Framework to Calculate the Energy Consumption of Containerized Applications",
+      "year": "2023",
+      "doi": "10.1109/cloud60044.2023.00017"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "pijnacker2025container",
+    "intervention_name": "KubeWatt",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Container-level Energy Observability in {Kubernetes} Clusters",
+      "authors": "Pijnacker, Bjorn and Setz, Brian and Andrikopoulos, Vasilios",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2504.10702",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "formal version preferred",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11179878",
+        "title": "Container-level Energy Observability in Kubernetes Clusters",
+        "year": "2025",
+        "doi": "10.1109/ict4s68164.2025.00016"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105018906302",
+        "title": "Container-level Energy Observability in Kubernetes Clusters",
+        "year": "2025",
+        "doi": "10.1109/ict4s68164.2025.00016"
+      }
+    ],
+    "retained_version": "formal publication",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11179878",
+      "title": "Container-level Energy Observability in Kubernetes Clusters",
+      "year": "2025",
+      "doi": "10.1109/ict4s68164.2025.00016"
+    },
+    "version_action": "replace preprint metadata with formal publication"
+  },
+  {
+    "cite_key": "11231033",
+    "intervention_name": "Multi-Obj. Power-Aware",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "A Multi-Objective Framework for Power-Aware Scheduling in {Kubernetes}",
+      "authors": "Gouaouri, Mohammed Dhiya Eddine and Ouahouah, Sihem and Bagaa, Miloud and Ahmed Ouameur, Messaoud and Ksentini, Adlen",
+      "year": "2026",
+      "venue": "IEEE Transactions on Network and Service Management",
+      "doi": "10.1109/tnsm.2025.3630045",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11231033",
+        "title": "A Multi-Objective Framework for Power-Aware Scheduling in Kubernetes",
+        "year": "2026",
+        "doi": "10.1109/tnsm.2025.3630045"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105021112387",
+        "title": "A Multi-Objective Framework for Power-Aware Scheduling in Kubernetes",
+        "year": "2026",
+        "doi": "10.1109/tnsm.2025.3630045"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "journals/tnsm/EddineOBOK26",
+        "title": "A Multi-Objective Framework for Power-Aware Scheduling in Kubernetes.",
+        "year": "2026",
+        "doi": "10.1109/tnsm.2025.3630045"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11231033",
+      "title": "A Multi-Objective Framework for Power-Aware Scheduling in Kubernetes",
+      "year": "2026",
+      "doi": "10.1109/tnsm.2025.3630045"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "10.1145/3773274.3774276",
+    "intervention_name": "Serverless Edge Sched.",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Energy-Aware Latency Optimization for Scheduling Serverless Workload in Edge Computing Environment",
+      "authors": "Subedi, Shrijan and Kumar, Satish and Jawad, Nawar and Kor, Ah Lian",
+      "year": "2026",
+      "venue": "Proceedings of the 18th IEEE/ACM International Conference on Utility and Cloud Computing",
+      "doi": "10.1145/3773274.3774276",
+      "url": "https://doi.org/10.1145/3773274.3774276",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library",
+      "DBLP",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3773274.3774276",
+        "title": "Energy-Aware Latency Optimization for Scheduling Serverless Workload in Edge Computing Environment",
+        "year": "2026",
+        "doi": "10.1145/3773274.3774276"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105027150878",
+        "title": "Energy-Aware Latency Optimization for Scheduling Serverless Workload in Edge Computing Environment",
+        "year": "2025",
+        "doi": "10.1145/3773274.3774276"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/ucc/SubediKJK25",
+        "title": "Energy-Aware Latency Optimization for Scheduling Serverless Workload in Edge Computing Environment.",
+        "year": "2025",
+        "doi": "10.1145/3773274.3774276"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3773274.3774276",
+      "title": "Energy-Aware Latency Optimization for Scheduling Serverless Workload in Edge Computing Environment",
+      "year": "2026",
+      "doi": "10.1145/3773274.3774276"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "11197392",
+    "intervention_name": "Energy-Aware Cloud-Native",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Energy-Aware Scheduling in Cloud-Native Environment",
+      "authors": "Tesfatsion, Selome Kostentinos and Gorbatov, Oleg and Cai, Xuejun",
+      "year": "2025",
+      "venue": "2025 International Conference on Software, Telecommunications and Computer Networks (SoftCOM)",
+      "doi": "10.23919/softcom66362.2025.11197392",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11197392",
+        "title": "Energy-Aware Scheduling in Cloud-Native Environment",
+        "year": "2025",
+        "doi": "10.23919/softcom66362.2025.11197392"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105021955281",
+        "title": "Energy-Aware Scheduling in Cloud-Native Environment",
+        "year": "2025",
+        "doi": "10.23919/softcom66362.2025.11197392"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11197392",
+      "title": "Energy-Aware Scheduling in Cloud-Native Environment",
+      "year": "2025",
+      "doi": "10.23919/softcom66362.2025.11197392"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "11101082",
+    "intervention_name": "Resource+Energy Sched.",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Enhancing Energy Efficiency in {Kubernetes} Cluster Through Resource and Energy Aware Scheduling",
+      "authors": "Moorthi, Soundharya and Mon, Ei Ei and Aswakul, Chaodit",
+      "year": "2025",
+      "venue": "2025 22nd International Conference on Electrical Engineering/Electronics, Computer, Telecommunications and Information Technology (ECTI-CON)",
+      "doi": "10.1109/ecti-con64996.2025.11101082",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11101082",
+        "title": "Enhancing Energy Efficiency in Kubernetes Cluster Through Resource and Energy Aware Scheduling",
+        "year": "2025",
+        "doi": "10.1109/ecti-con64996.2025.11101082"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105014340828",
+        "title": "Enhancing Energy Efficiency in Kubernetes Cluster Through Resource and Energy Aware Scheduling",
+        "year": "2025",
+        "doi": "10.1109/ecti-con64996.2025.11101082"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11101082",
+      "title": "Enhancing Energy Efficiency in Kubernetes Cluster Through Resource and Energy Aware Scheduling",
+      "year": "2025",
+      "doi": "10.1109/ecti-con64996.2025.11101082"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "10685327",
+    "intervention_name": "Stable Matching Serverless",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "A Stable Matching Approach to Energy Efficient and Sustainable Serverless Scheduling for the Green Cloud Continuum",
+      "authors": "Patel, Yashwant Singh and Townend, Paul",
+      "year": "2024",
+      "venue": "2024 IEEE International Conference on Service-Oriented System Engineering (SOSE)",
+      "doi": "10.1109/sose62363.2024.00010",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP"
+    ],
+    "matched_records": [
+      {
+        "source": "DBLP",
+        "source_id": "conf/sysose/PatelT24",
+        "title": "A Stable Matching Approach to Energy Efficient and Sustainable Serverless Scheduling for the Green Cloud Continuum.",
+        "year": "2024",
+        "doi": "10.1109/sose62363.2024.00010"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "DBLP",
+      "source_id": "conf/sysose/PatelT24",
+      "title": "A Stable Matching Approach to Energy Efficient and Sustainable Serverless Scheduling for the Green Cloud Continuum.",
+      "year": "2024",
+      "doi": "10.1109/sose62363.2024.00010"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "ali2025experimentingenergyawarenessedgecloudcontainerized",
+    "intervention_name": "Energy-Awareness Experiments",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SE",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Experimenting with Energy-Awareness in Edge-Cloud Containerized Application Orchestration",
+      "authors": "Dalal Ali and Rute C. Sofia",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2511.09116",
+      "eprint": "2511.09116",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "arXiv"
+    ],
+    "matched_records": [
+      {
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2511-09116",
+        "title": "Experimenting with Energy-Awareness in Edge-Cloud Containerized Application Orchestration.",
+        "year": "2025",
+        "doi": "10.48550/arxiv.2511.09116"
+      },
+      {
+        "source": "arXiv",
+        "source_id": "2511.09116",
+        "title": "Experimenting with Energy-Awareness in Edge-Cloud Containerized Application Orchestration",
+        "year": "2025",
+        "doi": ""
+      }
+    ],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "DBLP",
+      "source_id": "journals/corr/abs-2511-09116",
+      "title": "Experimenting with Energy-Awareness in Edge-Cloud Containerized Application Orchestration.",
+      "year": "2025",
+      "doi": "10.48550/arxiv.2511.09116"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "huang2023reducing",
+    "intervention_name": "VM Migration + Downsizing",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Reducing Cloud Expenditures and Carbon Emissions via Virtual Machine Migration and Downsizing",
+      "authors": "Huang, Nathan and Li, Anthony and Zhang, Sophia and Zong, Ziliang",
+      "year": "2023",
+      "venue": "2023 IEEE International Performance, Computing, and Communications Conference (IPCCC)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "huang2023reducing",
+      "title": "Reducing Cloud Expenditures and Carbon Emissions via Virtual Machine Migration and Downsizing",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "James2019ALC",
+    "intervention_name": "Low-Carbon K8s",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "A Low Carbon {Kubernetes} Scheduler",
+      "authors": "Aled James and Daniel Schien",
+      "year": "2019",
+      "venue": "ICT for Sustainability",
+      "doi": "",
+      "url": "https://api.semanticscholar.org/CorpusID:195693946",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85067802264",
+        "title": "A low carbon kubernetes scheduler",
+        "year": "2019",
+        "doi": ""
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/ict4s/JamesS19",
+        "title": "A Low Carbon Kubernetes Scheduler.",
+        "year": "2019",
+        "doi": ""
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85067802264",
+      "title": "A low carbon kubernetes scheduler",
+      "year": "2019",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "ghodsi2011dominant",
+    "intervention_name": "DRF",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Dominant resource fairness: Fair allocation of multiple resource types",
+      "authors": "Ghodsi, Ali and Zaharia, Matei and Hindman, Benjamin and Konwinski, Andy and Shenker, Scott and Stoica, Ion",
+      "year": "2011",
+      "venue": "8th USENIX symposium on networked systems design and implementation (NSDI 11)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "ghodsi2011dominant",
+      "title": "Dominant resource fairness: Fair allocation of multiple resource types",
+      "year": "2011",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "8744199",
+    "intervention_name": "ACO Microservices",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Ant Colony Algorithm for Multi-Objective Optimization of Container-Based Microservice Scheduling in Cloud",
+      "authors": "Lin, Miao and Xi, Jianqing and Bai, Weihua and Wu, Jiayin",
+      "year": "2019",
+      "venue": "IEEE Access",
+      "doi": "10.1109/access.2019.2924414",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "8744199",
+      "title": "Ant Colony Algorithm for Multi-Objective Optimization of Container-Based Microservice Scheduling in Cloud",
+      "year": "2019",
+      "doi": "10.1109/access.2019.2924414"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "ghafouri2023smart",
+    "intervention_name": "Smart-Kube",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{Smart-Kube}: Energy-Aware and Fair {Kubernetes} Job Scheduler Using Deep Reinforcement Learning",
+      "authors": "Ghafouri, Saeid and Abdipoor, Sina and Doyle, Joseph",
+      "year": "2023",
+      "venue": "2023 IEEE 8th International Conference on Smart Cloud (SmartCloud)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10349157",
+        "title": "Smart-Kube: Energy-Aware and Fair Kubernetes Job Scheduler Using Deep Reinforcement Learning",
+        "year": "2023",
+        "doi": "10.1109/smartcloud58862.2023.00035"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85183320073",
+        "title": "Smart-Kube: Energy-aware and Fair Kubernetes Job Scheduler using Deep Reinforcement Learning",
+        "year": "2023",
+        "doi": "10.1109/smartcloud58862.2023.00035"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/smartcloud/GhafouriAD23",
+        "title": "Smart-Kube: Energy-Aware and Fair Kubernetes Job Scheduler Using Deep Reinforcement Learning.",
+        "year": "2023",
+        "doi": "10.1109/smartcloud58862.2023.00035"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10349157",
+      "title": "Smart-Kube: Energy-Aware and Fair Kubernetes Job Scheduler Using Deep Reinforcement Learning",
+      "year": "2023",
+      "doi": "10.1109/smartcloud58862.2023.00035"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "9328612",
+    "intervention_name": "DL2",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{DL2}: A Deep Learning-Driven Scheduler for Deep Learning Clusters",
+      "authors": "Peng, Yanghua and Bao, Yixin and Chen, Yangrui and Wu, Chuan and Meng, Chen and Lin, Wei",
+      "year": "2021",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "doi": "10.1109/tpds.2021.3052895",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "9328612",
+      "title": "{DL2}: A Deep Learning-Driven Scheduler for Deep Learning Clusters",
+      "year": "2021",
+      "doi": "10.1109/tpds.2021.3052895"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "MAIZX",
+    "intervention_name": "MAIZX",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "{MAIZX}: A Carbon-Aware Framework for Optimizing Cloud Computing Emissions",
+      "authors": "Federico Ruilova and Ernst Gunnar Gran and Sven-Arne Reinemo",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2506.19972",
+      "eprint": "2506.19972",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "MAIZX",
+      "title": "{MAIZX}: A Carbon-Aware Framework for Optimizing Cloud Computing Emissions",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "gu2024greenflow",
+    "intervention_name": "GreenFlow",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{GreenFlow}: A Carbon-Efficient Scheduler for Deep Learning Workloads",
+      "authors": "Gu, Diandian and Zhao, Yihao and Sun, Peng and Jin, Xin and Liu, Xuanzhe",
+      "year": "2025",
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "doi": "10.1109/tpds.2024.3470074",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "gu2024greenflow",
+      "title": "{GreenFlow}: A Carbon-Efficient Scheduler for Deep Learning Workloads",
+      "year": "2025",
+      "doi": "10.1109/tpds.2024.3470074"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "chadha2023greencourier",
+    "intervention_name": "GreenCourier",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{GreenCourier}: Carbon-Aware Scheduling for Serverless Functions",
+      "authors": "Chadha, Mohak and Subramanian, Thandayuthapani and Arima, Eishi and Gerndt, Michael and Schulz, Martin and Abboud, Osama",
+      "year": "2023",
+      "venue": "Proceedings of the 9th International Workshop on Serverless Computing",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": true,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library",
+      "DBLP",
+      "Scopus",
+      "arXiv"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3631295.3631396",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85180124267",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/wosc/ChadhaSAG0A23",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions.",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2310-20375",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions.",
+        "year": "2023",
+        "doi": "10.48550/arxiv.2310.20375"
+      },
+      {
+        "source": "arXiv",
+        "source_id": "2310.20375",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3631295.3631396",
+      "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+      "year": "2023",
+      "doi": "10.1145/3631295.3631396"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "cafe",
+    "intervention_name": "CAFE",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{CAFE}: Carbon-Aware Federated Learning in Geographically Distributed Data Centers",
+      "authors": "Bian, Jieming and Ren, Shaolei and Xu, Jie",
+      "year": "2023",
+      "venue": "arXiv preprint arXiv:2311.03615",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "cafe",
+      "title": "{CAFE}: Carbon-Aware Federated Learning in Geographically Distributed Data Centers",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "cefl",
+    "intervention_name": "CEFL (EcoLearn)",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{EcoLearn}: Optimizing the Carbon Footprint of Federated Learning",
+      "authors": "Mehboob, Talha and Bashir, Noman and Iglesias, Jesus Oma{\\~n}a and Zink, Michael and Irwin, David",
+      "year": "2025",
+      "venue": "Proceedings of the Tenth ACM/IEEE Symposium on Edge Computing",
+      "doi": "10.1145/3769102.3770625",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "cefl",
+      "title": "{EcoLearn}: Optimizing the Carbon Footprint of Federated Learning",
+      "year": "2025",
+      "doi": "10.1145/3769102.3770625"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "KEDA",
+    "intervention_name": "KEDA (+ carbon operator)",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Implementation and Benchmarking of {Kubernetes} Horizontal Pod Autoscaling Method to Event-Driven Messaging System",
+      "authors": "Pilyai, Xavier and Irsyad, Rafsanjani Nurul and Zaini, Ikhwan Nashir and Negara, Ridha Muldina and Hertiana, Sofia Naning and Tulloh, Rohmat",
+      "year": "2023",
+      "venue": "International Conference on Broadband and Wireless Computing, Communication and Applications",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "KEDA",
+      "title": "Implementation and Benchmarking of {Kubernetes} Horizontal Pod Autoscaling Method to Event-Driven Messaging System",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "qi2024casa",
+    "intervention_name": "CASA",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{CASA}: A Framework for SLO-and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing",
+      "authors": "Qi, Sirui and Moore, Hayden and Hogade, Ninad and Milojicic, Dejan and Bash, Cullen and Pasricha, Sudeep",
+      "year": "2024",
+      "venue": "2024 IEEE 15th International Green and Sustainable Computing Conference (IGSC)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10765835",
+        "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing",
+        "year": "2024",
+        "doi": "10.1109/igsc64514.2024.00010"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85213365355",
+        "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing",
+        "year": "2024",
+        "doi": "10.1109/igsc64514.2024.00010"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/green/QiMHMBP24",
+        "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing.",
+        "year": "2024",
+        "doi": "10.1109/igsc64514.2024.00010"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2409-00550",
+        "title": "CASA: A Framework for SLO and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing.",
+        "year": "2024",
+        "doi": "10.48550/arxiv.2409.00550"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10765835",
+      "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing",
+      "year": "2024",
+      "doi": "10.1109/igsc64514.2024.00010"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "serenari2024greenwhisk",
+    "intervention_name": "GreenWhisk",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{GreenWhisk}: Emission-aware computing for serverless platform",
+      "authors": "Serenari, Jayden and Sreekumar, Sreekanth and Zhao, Kaiwen and Sarkar, Saurabh and Lee, Stephen",
+      "year": "2024",
+      "venue": "2024 IEEE International Conference on Cloud Engineering (IC2E)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "serenari2024greenwhisk",
+      "title": "{GreenWhisk}: Emission-aware computing for serverless platform",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "piontek2024carbon",
+    "intervention_name": "CO$_2$-Aware Job Sched.",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Carbon emission-aware job scheduling for {Kubernetes} deployments",
+      "authors": "Piontek, Tobias and Haghshenas, Kawsar and Aiello, Marco",
+      "year": "2024",
+      "venue": "The Journal of Supercomputing",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85163390301",
+        "title": "Carbon emission-aware job scheduling for Kubernetes deployments",
+        "year": "2024",
+        "doi": "10.1007/s11227-023-05506-7"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "journals/tjs/PiontekHA24",
+        "title": "Carbon emission-aware job scheduling for Kubernetes deployments.",
+        "year": "2024",
+        "doi": "10.1007/s11227-023-05506-7"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85163390301",
+      "title": "Carbon emission-aware job scheduling for Kubernetes deployments",
+      "year": "2024",
+      "doi": "10.1007/s11227-023-05506-7"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "Souza_2023",
+    "intervention_name": "CASPER",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{CASPER}: Carbon-Aware Scheduling and Provisioning for Distributed Web Services",
+      "authors": "Souza, Abel and Jasoria, Shruti and Chakrabarty, Basundhara and Bridgwater, Alexander and Lundberg, Axel and Skogh, Filip and Ali-Eldin, Ahmed and Irwin, David and Shenoy, Prashant",
+      "year": "2023",
+      "venue": "Proceedings of the 14th International Green and Sustainable Computing Conference",
+      "doi": "10.1145/3634769.3634812",
+      "url": "http://dx.doi.org/10.1145/3634769.3634812",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3634769.3634812",
+        "title": "CASPER: Carbon-Aware Scheduling and Provisioning for Distributed Web Services",
+        "year": "2024",
+        "doi": "10.1145/3634769.3634812"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3634769.3634812",
+      "title": "CASPER: Carbon-Aware Scheduling and Provisioning for Distributed Web Services",
+      "year": "2024",
+      "doi": "10.1145/3634769.3634812"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "lechowicz2025pcaps",
+    "intervention_name": "PCAPS",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Carbon- and Precedence-Aware Scheduling for Data Processing Clusters",
+      "authors": "Adam Lechowicz and Rohan Shenoy and Noman Bashir and Mohammad Hajiesmaili and Adam Wierman and Christina Delimitrou",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2502.09717",
+      "eprint": "2502.09717",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "formal version preferred",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3718958.3750478",
+        "title": "Carbon- and Precedence-Aware Scheduling for Data Processing Clusters",
+        "year": "2025",
+        "doi": "10.1145/3718958.3750478"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105016258877",
+        "title": "Carbon- and Precedence-Aware Scheduling for Data Processing Clusters",
+        "year": "2025",
+        "doi": "10.1145/3718958.3750478"
+      }
+    ],
+    "retained_version": "formal publication",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3718958.3750478",
+      "title": "Carbon- and Precedence-Aware Scheduling for Data Processing Clusters",
+      "year": "2025",
+      "doi": "10.1145/3718958.3750478"
+    },
+    "version_action": "replace preprint metadata with formal publication"
+  },
+  {
+    "cite_key": "kreutz2025budget",
+    "intervention_name": "Carbon-Budget Microservices",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Carbon-Aware Microservice Deployment for Optimal User Experience on a Budget",
+      "authors": "Kreutz, Kevin and Wiesner, Philipp and Vitali, Monica",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": "Presented at the 1st International Workshop on Low Carbon Computing (LOCO 2024)"
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": true,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "kreutz2025budget",
+      "title": "Carbon-Aware Microservice Deployment for Optimal User Experience on a Budget",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "guan2024u",
+    "intervention_name": "U-DUCT",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{U-DUCT}: Uncertainty-aware Dynamic Unified Carbon Modeling Tool for Datacenter Scheduling",
+      "authors": "Guan, Wenkai and Zhao, Yang Katie and Ababei, Cristinel",
+      "year": "2024",
+      "venue": "2024 IEEE 15th International Green and Sustainable Computing Conference (IGSC)",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "guan2024u",
+      "title": "{U-DUCT}: Uncertainty-aware Dynamic Unified Carbon Modeling Tool for Datacenter Scheduling",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "beena2025green",
+    "intervention_name": "Green Cloud Framework",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "A Green Cloud-Based Framework for Energy-Efficient Task Scheduling Using Carbon Intensity Data for Heterogeneous Cloud Servers",
+      "authors": "Beena, BM and Prashanth, CSR and Manideep, Thotapalli Sri Surya and Saragadam, Sneha and Karthik, Garikipati",
+      "year": "2025",
+      "venue": "IEEE Access",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10971939",
+        "title": "A Green Cloud-Based Framework for Energy-Efficient Task Scheduling Using Carbon Intensity Data for Heterogeneous Cloud Servers",
+        "year": "2025",
+        "doi": "10.1109/access.2025.3562882"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105003624740",
+        "title": "A Green Cloud-Based Framework for Energy-Efficient Task Scheduling Using Carbon Intensity Data for Heterogeneous Cloud Servers",
+        "year": "2025",
+        "doi": "10.1109/access.2025.3562882"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10971939",
+      "title": "A Green Cloud-Based Framework for Energy-Efficient Task Scheduling Using Carbon Intensity Data for Heterogeneous Cloud Servers",
+      "year": "2025",
+      "doi": "10.1109/access.2025.3562882"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "rodrigues2025carbon",
+    "intervention_name": "LinTS",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Carbon-Aware Temporal Data Transfer Scheduling Across Cloud Datacenters",
+      "authors": "Rodrigues, Elvis and Goldverg, Jacob and Kosar, Tevfik",
+      "year": "2025",
+      "venue": "arXiv preprint arXiv:2506.04117",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "rodrigues2025carbon",
+      "title": "Carbon-Aware Temporal Data Transfer Scheduling Across Cloud Datacenters",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "11186459",
+    "intervention_name": "GreenK8s",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{GreenK8s}: Green-aware Scheduling for Sustainable {Kubernetes} Cluster Management",
+      "authors": "Sun, Yifan and Xu, Minxian and Toosi, Adel N.",
+      "year": "2025",
+      "venue": "2025 IEEE International Conference on Cluster Computing (CLUSTER)",
+      "doi": "10.1109/cluster59342.2025.11186459",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11186459",
+        "title": "GreenK8s: Green-aware Scheduling for Sustainable Kubernetes Cluster Management",
+        "year": "2025",
+        "doi": "10.1109/cluster59342.2025.11186459"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105019793817",
+        "title": "GreenK8s: Green-aware Scheduling for Sustainable Kubernetes Cluster Management",
+        "year": "2025",
+        "doi": "10.1109/cluster59342.2025.11186459"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/cluster/SunXT25",
+        "title": "GreenK8s: Green-aware Scheduling for Sustainable Kubernetes Cluster Management.",
+        "year": "2025",
+        "doi": "10.1109/cluster59342.2025.11186459"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11186459",
+      "title": "GreenK8s: Green-aware Scheduling for Sustainable Kubernetes Cluster Management",
+      "year": "2025",
+      "doi": "10.1109/cluster59342.2025.11186459"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "chaudhary2026slaconstrainedcarbonawareroutinggeodistributed",
+    "intervention_name": "SLA Carbon Routing",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds",
+      "authors": "Anmol Chaudhary and Rahul Mishra",
+      "year": "2026",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2607.22806",
+      "eprint": "2607.22806",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP"
+    ],
+    "matched_records": [
+      {
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2607-22806",
+        "title": "SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds.",
+        "year": "2026",
+        "doi": "10.48550/arxiv.2607.22806"
+      }
+    ],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "DBLP",
+      "source_id": "journals/corr/abs-2607-22806",
+      "title": "SLA-Constrained Carbon-Aware Routing in Geo-Distributed Serverless Clouds.",
+      "year": "2026",
+      "doi": "10.48550/arxiv.2607.22806"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "huang2026greennessdrivenschedulingfaredge",
+    "intervention_name": "CODECO Greenness",
+    "analytical_role": "core_intervention",
+    "legacy_group": "SC",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Greenness-Driven Scheduling in Far Edge {Kubernetes}: A {CODECO} Evaluation",
+      "authors": "Kaikang Huang and Dalal Ali and Rute C. Sofia",
+      "year": "2026",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2606.12136",
+      "eprint": "2606.12136",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "arXiv"
+    ],
+    "matched_records": [
+      {
+        "source": "arXiv",
+        "source_id": "2606.12136",
+        "title": "Greenness-Driven Scheduling in Far Edge Kubernetes: A CODECO Evaluation",
+        "year": "2026",
+        "doi": ""
+      }
+    ],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "arXiv",
+      "source_id": "2606.12136",
+      "title": "Greenness-Driven Scheduling in Far Edge Kubernetes: A CODECO Evaluation",
+      "year": "2026",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "7152842",
+    "intervention_name": "WATCH",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Water-Constrained Geographic Load Balancing in Data Centers",
+      "authors": "Islam, Mohammad A. and Ren, Shaolei and Quan, Gang and Shakir, Muhammad Z. and Vasilakos, Athanasios V.",
+      "year": "2017",
+      "venue": "IEEE Transactions on Cloud Computing",
+      "doi": "10.1109/tcc.2015.2453982",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "7152842",
+      "title": "Water-Constrained Geographic Load Balancing in Data Centers",
+      "year": "2017",
+      "doi": "10.1109/tcc.2015.2453982"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "7420641",
+    "intervention_name": "WACE",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers",
+      "authors": "Islam, Mohammad A. and Ahmed, Kishwar and Xu, Hong and Tran, Nguyen H. and Quan, Gang and Ren, Shaolei",
+      "year": "2018",
+      "venue": "IEEE Transactions on Cloud Computing",
+      "doi": "10.1109/tcc.2016.2535201",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "7420641",
+      "title": "Exploiting Spatio-Temporal Diversity for Water Saving in Geo-Distributed Data Centers",
+      "year": "2018",
+      "doi": "10.1109/tcc.2016.2535201"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "jiang2025waterwisecooptimizingcarbonwaterfootprint",
+    "intervention_name": "WaterWise",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "{WaterWise}: Co-optimizing Carbon- and Water-Footprint Toward Environmentally Sustainable Cloud Computing",
+      "authors": "Yankai Jiang and Rohan Basu Roy and Raghavendra Kanakagiri and Devesh Tiwari",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2501.17944",
+      "eprint": "2501.17944",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "jiang2025waterwisecooptimizingcarbonwaterfootprint",
+      "title": "{WaterWise}: Co-optimizing Carbon- and Water-Footprint Toward Environmentally Sustainable Cloud Computing",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "moore2025slit",
+    "intervention_name": "SLIT",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Sustainable Carbon-Aware and Water-Efficient {LLM} Scheduling in Geo-Distributed Cloud Datacenters",
+      "authors": "Moore, Hayden and Qi, Sirui and Hogade, Ninad and Milojicic, Dejan and Bash, Cullen and Pasricha, Sudeep",
+      "year": "2025",
+      "venue": "Proceedings of the Great Lakes Symposium on VLSI 2025",
+      "doi": "10.1145/3716368.3735301",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "moore2025slit",
+      "title": "Sustainable Carbon-Aware and Water-Efficient {LLM} Scheduling in Geo-Distributed Cloud Datacenters",
+      "year": "2025",
+      "doi": "10.1145/3716368.3735301"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "moore2026marlin",
+    "intervention_name": "MARLIN",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "{MARLIN}: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable {LLM} Inference in Cloud Datacenters",
+      "authors": "Moore, Hayden and Qi, Sirui and Milojicic, Dejan and Bash, Cullen and Pasricha, Sudeep",
+      "year": "2026",
+      "venue": "arXiv preprint arXiv:2605.13496",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "formal version preferred",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3797248.3815404",
+        "title": "MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters",
+        "year": "2026",
+        "doi": "10.1145/3797248.3815404"
+      }
+    ],
+    "retained_version": "formal publication",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3797248.3815404",
+      "title": "MARLIN: Multi-Agent Game-Theoretic Reinforcement Learning for Sustainable LLM Inference in Cloud Datacenters",
+      "year": "2026",
+      "doi": "10.1145/3797248.3815404"
+    },
+    "version_action": "replace preprint metadata with formal publication"
+  },
+  {
+    "cite_key": "li2024environmentallyequitableaigeographical",
+    "intervention_name": "Equity-aware GLB",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Towards Environmentally Equitable {AI} via Geographical Load Balancing",
+      "authors": "Pengfei Li and Jianyi Yang and Adam Wierman and Shaolei Ren",
+      "year": "2024",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2307.05494",
+      "eprint": "2307.05494",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "li2024environmentallyequitableaigeographical",
+      "title": "Towards Environmentally Equitable {AI} via Geographical Load Balancing",
+      "year": "2024",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "talukder2026balancingbitsdropsstressadjusted",
+    "intervention_name": "Stress-adjusted mgmt.",
+    "analytical_role": "transfer_evidence",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Balancing Bits and Drops: Stress-Adjusted Water Management for Data Centers",
+      "authors": "Zahidur Talukder and Imtiaz Bin Rahim and Pranjol Sen Gupta and Shaolei Ren and Mohammad A. Islam",
+      "year": "2026",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2607.22617",
+      "eprint": "2607.22617",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "talukder2026balancingbitsdropsstressadjusted",
+      "title": "Balancing Bits and Drops: Stress-Adjusted Water Management for Data Centers",
+      "year": "2026",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "wu2025waterconsumptionequalwater",
+    "intervention_name": "Water-stress metric",
+    "analytical_role": "enabling_infrastructure",
+    "legacy_group": "WA",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing",
+      "authors": "Yanran Wu and Inez Hua and Yi Ding",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2506.22773",
+      "eprint": "2506.22773",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "wu2025waterconsumptionequalwater",
+      "title": "Not All Water Consumption Is Equal: A Water Stress Weighted Metric for Sustainable Computing",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "10.1145/3373376.3378473",
+    "intervention_name": "Orbital Edge Computing",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Orbital Edge Computing: Nanosatellite Constellations as a New Class of Computer System",
+      "authors": "Denby, Bradley and Lucia, Brandon",
+      "year": "2020",
+      "venue": "Proceedings of the Twenty-Fifth International Conference on Architectural Support for Programming Languages and Operating Systems",
+      "doi": "10.1145/3373376.3378473",
+      "url": "https://doi.org/10.1145/3373376.3378473",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "10.1145/3373376.3378473",
+      "title": "Orbital Edge Computing: Nanosatellite Constellations as a New Class of Computer System",
+      "year": "2020",
+      "doi": "10.1145/3373376.3378473"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "9884906",
+    "intervention_name": "ISS DL benchmark",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Benchmarking Deep Learning Inference of Remote Sensing Imagery on the Qualcomm Snapdragon And Intel Movidius Myriad X Processors Onboard the International Space Station",
+      "authors": "Dunkel, Emily and Swope, Jason and Towfic, Zaid and Chien, Steve and Russell, Damon and Sauvageau, Joseph and Sheldon, Douglas and Romero-Cañas, Juan and Espinosa-Aranda, Jose Luis and Buckley, Léonie and Hervas-Martin, Elena and Fernandez, Mark and Knox, Carrie",
+      "year": "2022",
+      "venue": "IGARSS 2022 - 2022 IEEE International Geoscience and Remote Sensing Symposium",
+      "doi": "10.1109/igarss46834.2022.9884906",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "9884906",
+      "title": "Benchmarking Deep Learning Inference of Remote Sensing Imagery on the Qualcomm Snapdragon And Intel Movidius Myriad X Processors Onboard the International Space Station",
+      "year": "2022",
+      "doi": "10.1109/igarss46834.2022.9884906"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "wang2023satellitecomputingcasestudy",
+    "intervention_name": "Cloud-native satellite",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Satellite Computing: A Case Study of Cloud-Native Satellites",
+      "authors": "Chao Wang and Yiran Zhang and Qing Li and Ao Zhou and Shangguang Wang",
+      "year": "2023",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2307.08530",
+      "eprint": "2307.08530",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "wang2023satellitecomputingcasestudy",
+      "title": "Satellite Computing: A Case Study of Cloud-Native Satellites",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "pfandzelter2025trabantserverlessarchitecturemultitenant",
+    "intervention_name": "Trabant",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "{Trabant}: A Serverless Architecture for Multi-Tenant Orbital Edge Computing",
+      "authors": "Tobias Pfandzelter and Nikita Bauer and Alexander Leis and Corentin Perdrizet and Felix Trautwein and Trever Schirmer and Osama Abboud and David Bermbach",
+      "year": "2025",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2504.08337",
+      "eprint": "2504.08337",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "pfandzelter2025trabantserverlessarchitecturemultitenant",
+      "title": "{Trabant}: A Serverless Architecture for Multi-Tenant Orbital Edge Computing",
+      "year": "2025",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "chen2026spacemoeorbitalgeneralintelligence",
+    "intervention_name": "SpaceMoE",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "{SpaceMoE}: Towards Orbital General Intelligence with Distributed Mixture-of-Experts Inference",
+      "authors": "Qian Chen and Xianhao Chen and Min Sheng and Kaibin Huang",
+      "year": "2026",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2605.16849",
+      "eprint": "2605.16849",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "chen2026spacemoeorbitalgeneralintelligence",
+      "title": "{SpaceMoE}: Towards Orbital General Intelligence with Distributed Mixture-of-Experts Inference",
+      "year": "2026",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "arcas2026futurespacebasedhighlyscalable",
+    "intervention_name": "Suncatcher",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Towards a future space-based, highly scalable {AI} infrastructure system design",
+      "authors": "Blaise Agüera y Arcas and Travis Beals and Maria Biggs and Jessica V. Bloom and Thomas Fischbacher and Konstantin Gromov and Urs Köster and Rishiraj Pravahan and James Manyika",
+      "year": "2026",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2511.19468",
+      "eprint": "2511.19468",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "arcas2026futurespacebasedhighlyscalable",
+      "title": "Towards a future space-based, highly scalable {AI} infrastructure system design",
+      "year": "2026",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "chen2026hotaicoldspace",
+    "intervention_name": "Orbital Thermal Sched.",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "OR",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "Hot {AI} in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital {AI} Clusters",
+      "authors": "Shuyi Chen and Zhengchang Hua and Nikos Tziritas and Georgios Theodoropoulos",
+      "year": "2026",
+      "venue": "",
+      "doi": "",
+      "url": "https://arxiv.org/abs/2606.26150",
+      "eprint": "2606.26150",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": true,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "preprint",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "chen2026hotaicoldspace",
+      "title": "Hot {AI} in Cold Space: Thermal-Crosstalk-Aware Scheduling for Sustainable Orbital {AI} Clusters",
+      "year": "2026",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "10.1007/978-3-031-26507-5_15",
+    "intervention_name": "Energy-Aware OSM Placement",
+    "analytical_role": "core_intervention",
+    "legacy_group": "core",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "Energy-Aware Placement of Network Functions in Edge-Based Infrastructures with Open Source MANO and Kubernetes",
+      "authors": "Ca{\\~{n}}ete, Angel and Rodr{\\'i}guez, Alberto and Amor, Mercedes and Fuentes, Lidia",
+      "year": "2023",
+      "venue": "Service-Oriented Computing -- ICSOC 2022 Workshops",
+      "doi": "",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": true,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact normalized title",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85151052879",
+        "title": "Energy-Aware Placement of Network Functions in Edge-Based Infrastructures with Open Source MANO and Kubernetes",
+        "year": "2023",
+        "doi": "10.1007/978-3-031-26507-5_15"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/icsoc/CaneteRAF22",
+        "title": "Energy-Aware Placement of Network Functions in Edge-Based Infrastructures with Open Source MANO and Kubernetes.",
+        "year": "2022",
+        "doi": "10.1007/978-3-031-26507-5_15"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-85151052879",
+      "title": "Energy-Aware Placement of Network Functions in Edge-Based Infrastructures with Open Source MANO and Kubernetes",
+      "year": "2023",
+      "doi": "10.1007/978-3-031-26507-5_15"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "carbonAwareKedaOperator",
+    "intervention_name": "Carbon-Aware KEDA Operator",
+    "analytical_role": "horizon_evidence",
+    "legacy_group": "horizon",
+    "intended_discovery_route": "supplementary route",
+    "bibliography": {
+      "entry_type": "misc",
+      "title": "{Carbon Aware {KEDA} Operator}",
+      "authors": "{Microsoft Azure}",
+      "year": "2023",
+      "venue": "",
+      "doi": "",
+      "url": "https://github.com/Azure/carbon-aware-keda-operator",
+      "eprint": "",
+      "note": "Open-source Kubernetes operator that scales KEDA-managed workloads based on carbon intensity. Technical documentation and code, not peer-reviewed literature. First release v0.1.0 published April 4, 2023. Accessed August 30, 2026."
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": true
+    },
+    "search_match_status": "not found",
+    "search_match_basis": "not found",
+    "similarity": null,
+    "matched_sources": [],
+    "matched_records": [],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "bibliography",
+      "source_id": "carbonAwareKedaOperator",
+      "title": "{Carbon Aware {KEDA} Operator}",
+      "year": "2023",
+      "doi": ""
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "dong2025towards",
+    "intervention_name": "PAX",
+    "analytical_role": "core_intervention",
+    "legacy_group": "core",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "article",
+      "title": "Towards Performance and Energy Aware {Kubernetes} Scheduler",
+      "authors": "Dong, Han and Singh, Parul and Awad, Yara and George, Felix and Narayanam, Krishnasuri and Arora, Sanjay and Appavoo, Jonathan",
+      "year": "2025",
+      "venue": "ACM SIGENERGY Energy Informatics Review",
+      "doi": "10.1145/3757892.3757902",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "ACM Digital Library"
+    ],
+    "matched_records": [
+      {
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3757892.3757902",
+        "title": "Towards Performance and Energy Aware Kubernetes Scheduler",
+        "year": "2025",
+        "doi": "10.1145/3757892.3757902"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "ACM Digital Library",
+      "source_id": "10.1145/3757892.3757902",
+      "title": "Towards Performance and Energy Aware Kubernetes Scheduler",
+      "year": "2025",
+      "doi": "10.1145/3757892.3757902"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "10254745",
+    "intervention_name": "GreenKube",
+    "analytical_role": "core_intervention",
+    "legacy_group": "core",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{GreenKube}: Towards Greener Container Orchestration using Artificial Intelligence",
+      "authors": "Theodoropoulos, Theodoros and Makris, Antonios and Korontanis, Ioannis and Tserpes, Konstantinos",
+      "year": "2023",
+      "venue": "2023 IEEE International Conference on Service-Oriented System Engineering (SOSE)",
+      "doi": "10.1109/sose58276.2023.00023",
+      "url": "",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254745",
+        "title": "GreenKube: Towards Greener Container Orchestration using Artificial Intelligence",
+        "year": "2023",
+        "doi": "10.1109/sose58276.2023.00023"
+      },
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-85174897113",
+        "title": "GreenKube: Towards Greener Container Orchestration using Artificial Intelligence",
+        "year": "2023",
+        "doi": "10.1109/sose58276.2023.00023"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "IEEE Xplore",
+      "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10254745",
+      "title": "GreenKube: Towards Greener Container Orchestration using Artificial Intelligence",
+      "year": "2023",
+      "doi": "10.1109/sose58276.2023.00023"
+    },
+    "version_action": "none"
+  },
+  {
+    "cite_key": "10.1007/978-3-032-19134-2_19",
+    "intervention_name": "Microgrid Green Scheduler",
+    "analytical_role": "core_intervention",
+    "legacy_group": "core",
+    "intended_discovery_route": "database core route",
+    "bibliography": {
+      "entry_type": "inproceedings",
+      "title": "{Kubernetes} Scheduling for Green-Powered Microgrid Data Centers",
+      "authors": "Andersen, Simon Malgo Pronk and Mumberg, Laurits Christian Bang and Golmohamadi, Hessam and Albano, Michele",
+      "year": "2026",
+      "venue": "Energy Informatics: 5th Energy Informatics Academy Conference, EI.A 2025, Kuala Lumpur, Malaysia, December 3–5, 2025, Proceedings, Part I",
+      "doi": "10.1007/978-3-032-19134-2_19",
+      "url": "https://doi.org/10.1007/978-3-032-19134-2_19",
+      "eprint": "",
+      "note": ""
+    },
+    "publication_flags": {
+      "preprint": false,
+      "workshop": false,
+      "gray_literature_candidate": false
+    },
+    "search_match_status": "confirmed",
+    "search_match_basis": "exact DOI",
+    "similarity": null,
+    "matched_sources": [
+      "DBLP",
+      "Scopus"
+    ],
+    "matched_records": [
+      {
+        "source": "Scopus",
+        "source_id": "2-s2.0-105039219494",
+        "title": "Kubernetes Scheduling for Green-Powered Microgrid Data Centers",
+        "year": "2026",
+        "doi": "10.1007/978-3-032-19134-2_19"
+      },
+      {
+        "source": "DBLP",
+        "source_id": "conf/eia/AndersenMGA25",
+        "title": "Kubernetes Scheduling for Green-Powered Microgrid Data Centers.",
+        "year": "2025",
+        "doi": "10.1007/978-3-032-19134-2_19"
+      }
+    ],
+    "retained_version": "published or non-preprint source",
+    "retained_record": {
+      "source": "Scopus",
+      "source_id": "2-s2.0-105039219494",
+      "title": "Kubernetes Scheduling for Green-Powered Microgrid Data Centers",
+      "year": "2026",
+      "doi": "10.1007/978-3-032-19134-2_19"
+    },
+    "version_action": "none"
+  }
+]

@@ -1,0 +1,675 @@
+[
+  {
+    "normalized_title": "exploiting kubernetes autoscaling for economic denial of sustainability",
+    "distinct_dois": [
+      "10.1145/3726854.3727284",
+      "10.1145/3727114"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3726854.3727284",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3726854.3727284",
+        "title": "Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability",
+        "year": "2025",
+        "doi": "10.1145/3726854.3727284"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3727114",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3727114",
+        "title": "Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability",
+        "year": "2025",
+        "doi": "10.1145/3727114"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105007159769",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105007159769",
+        "title": "Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability",
+        "year": "2025",
+        "doi": "10.1145/3727114"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105010298912",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105010298912",
+        "title": "Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability",
+        "year": "2025",
+        "doi": "10.1145/3726854.3727284"
+      },
+      {
+        "record_id": "DBLP::journals/pomacs/ChamberlainZZLS25",
+        "source": "DBLP",
+        "source_id": "journals/pomacs/ChamberlainZZLS25",
+        "title": "Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability.",
+        "year": "2025",
+        "doi": "10.1145/3727114"
+      },
+      {
+        "record_id": "DBLP::conf/sigmetrics/ChamberlainZZLS25",
+        "source": "DBLP",
+        "source_id": "conf/sigmetrics/ChamberlainZZLS25",
+        "title": "Exploiting Kubernetes Autoscaling for Economic Denial of Sustainability.",
+        "year": "2025",
+        "doi": "10.1145/3726854.3727284"
+      }
+    ],
+    "group_id": "CONFLICT-0001",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "an agile pathway towards carbon aware clouds",
+    "distinct_dois": [
+      "10.1145/3604930.3605722",
+      "10.1145/3698365.3698368"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3698365.3698368",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3698365.3698368",
+        "title": "An Agile Pathway Towards Carbon-Aware Clouds",
+        "year": "2024",
+        "doi": "10.1145/3698365.3698368"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3604930.3605722",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3604930.3605722",
+        "title": "An Agile Pathway Towards Carbon-aware Clouds",
+        "year": "2023",
+        "doi": "10.1145/3604930.3605722"
+      }
+    ],
+    "group_id": "CONFLICT-0002",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "towards carbon footprint management in hybrid multicloud",
+    "distinct_dois": [
+      "10.1145/3604930.3605721",
+      "10.1145/3698365.3698375"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3698365.3698375",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3698365.3698375",
+        "title": "Towards Carbon Footprint Management in Hybrid Multicloud",
+        "year": "2024",
+        "doi": "10.1145/3698365.3698375"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3604930.3605721",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3604930.3605721",
+        "title": "Towards Carbon Footprint Management in Hybrid Multicloud",
+        "year": "2023",
+        "doi": "10.1145/3604930.3605721"
+      }
+    ],
+    "group_id": "CONFLICT-0003",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "carbonscaler leveraging cloud workload elasticity for optimizing carbon efficiency",
+    "distinct_dois": [
+      "10.1145/3626788",
+      "10.1145/3652963.3655048",
+      "10.1145/3673660.3655048"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3652963.3655048",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3652963.3655048",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2024",
+        "doi": "10.1145/3652963.3655048"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3626788",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3626788",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2023",
+        "doi": "10.1145/3626788"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85196362918",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85196362918",
+        "title": "Carbonscaler: Leveraging cloud workload elasticity for optimizing carbon-efficiency",
+        "year": "2024",
+        "doi": "10.1145/3652963.3655048"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85175601124",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85175601124",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2024",
+        "doi": "10.1145/3673660.3655048"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85178142603",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85178142603",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2023",
+        "doi": "10.1145/3626788"
+      },
+      {
+        "record_id": "arXiv::2302.08681",
+        "source": "arXiv",
+        "source_id": "2302.08681",
+        "title": "CarbonScaler: Leveraging Cloud Workload Elasticity for Optimizing Carbon-Efficiency",
+        "year": "2023",
+        "doi": "10.1145/3626788"
+      }
+    ],
+    "group_id": "CONFLICT-0004",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "energat fine grained energy attribution for multi tenancy",
+    "distinct_dois": [
+      "10.1145/3604930.3605716",
+      "10.1145/3698365.3698369"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3698365.3698369",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3698365.3698369",
+        "title": "EnergAt: Fine-Grained Energy Attribution for Multi-Tenancy",
+        "year": "2024",
+        "doi": "10.1145/3698365.3698369"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3604930.3605716",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3604930.3605716",
+        "title": "EnergAt: Fine-Grained Energy Attribution for Multi-Tenancy",
+        "year": "2023",
+        "doi": "10.1145/3604930.3605716"
+      }
+    ],
+    "group_id": "CONFLICT-0005",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "greencourier carbon aware scheduling for serverless functions",
+    "distinct_dois": [
+      "10.1145/3631295.3631396",
+      "10.48550/arxiv.2310.20375"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3631295.3631396",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3631295.3631396",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85180124267",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85180124267",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      },
+      {
+        "record_id": "DBLP::conf/wosc/ChadhaSAG0A23",
+        "source": "DBLP",
+        "source_id": "conf/wosc/ChadhaSAG0A23",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions.",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      },
+      {
+        "record_id": "DBLP::journals/corr/abs-2310-20375",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2310-20375",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions.",
+        "year": "2023",
+        "doi": "10.48550/arxiv.2310.20375"
+      },
+      {
+        "record_id": "arXiv::2310.20375",
+        "source": "arXiv",
+        "source_id": "2310.20375",
+        "title": "GreenCourier: Carbon-Aware Scheduling for Serverless Functions",
+        "year": "2023",
+        "doi": "10.1145/3631295.3631396"
+      }
+    ],
+    "group_id": "CONFLICT-0006",
+    "decision": "retain formal publication and remove preprint"
+  },
+  {
+    "normalized_title": "mortar an open testbed for portable building analytics",
+    "distinct_dois": [
+      "10.1145/3276774.3276796",
+      "10.1145/3366375"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3366375",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3366375",
+        "title": "Mortar: An Open Testbed for Portable Building Analytics",
+        "year": "2019",
+        "doi": "10.1145/3366375"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3276774.3276796",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3276774.3276796",
+        "title": "Mortar: an open testbed for portable building analytics",
+        "year": "2018",
+        "doi": "10.1145/3276774.3276796"
+      }
+    ],
+    "group_id": "CONFLICT-0007",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "democratizing authority in the built environment",
+    "distinct_dois": [
+      "10.1145/3137133.3137151",
+      "10.1145/3199665"
+    ],
+    "members": [
+      {
+        "record_id": "ACM Digital Library::10.1145/3199665",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3199665",
+        "title": "Democratizing Authority in the Built Environment",
+        "year": "2018",
+        "doi": "10.1145/3199665"
+      },
+      {
+        "record_id": "ACM Digital Library::10.1145/3137133.3137151",
+        "source": "ACM Digital Library",
+        "source_id": "10.1145/3137133.3137151",
+        "title": "Democratizing authority in the built environment",
+        "year": "2017",
+        "doi": "10.1145/3137133.3137151"
+      }
+    ],
+    "group_id": "CONFLICT-0008",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "casa a framework for slo and carbon aware autoscaling and scheduling in serverless cloud computing",
+    "distinct_dois": [
+      "10.1109/igsc64514.2024.00010",
+      "10.48550/arxiv.2409.00550"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10765835",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10765835",
+        "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing",
+        "year": "2024",
+        "doi": "10.1109/igsc64514.2024.00010"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85213365355",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85213365355",
+        "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing",
+        "year": "2024",
+        "doi": "10.1109/igsc64514.2024.00010"
+      },
+      {
+        "record_id": "DBLP::conf/green/QiMHMBP24",
+        "source": "DBLP",
+        "source_id": "conf/green/QiMHMBP24",
+        "title": "CASA: A Framework for SLO- and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing.",
+        "year": "2024",
+        "doi": "10.1109/igsc64514.2024.00010"
+      },
+      {
+        "record_id": "DBLP::journals/corr/abs-2409-00550",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2409-00550",
+        "title": "CASA: A Framework for SLO and Carbon-Aware Autoscaling and Scheduling in Serverless Cloud Computing.",
+        "year": "2024",
+        "doi": "10.48550/arxiv.2409.00550"
+      }
+    ],
+    "group_id": "CONFLICT-0009",
+    "decision": "retain formal publication and remove preprint"
+  },
+  {
+    "normalized_title": "towards carbon aware container orchestration predicting workload energy consumption with federated learning",
+    "distinct_dois": [
+      "10.1109/swc65939.2025.00082",
+      "10.48550/arxiv.2510.03970"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11395140",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11395140",
+        "title": "Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning",
+        "year": "2025",
+        "doi": "10.1109/swc65939.2025.00082"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105035830573",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105035830573",
+        "title": "Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning",
+        "year": "2025",
+        "doi": "10.1109/swc65939.2025.00082"
+      },
+      {
+        "record_id": "DBLP::journals/corr/abs-2510-03970",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2510-03970",
+        "title": "Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning.",
+        "year": "2025",
+        "doi": "10.48550/arxiv.2510.03970"
+      },
+      {
+        "record_id": "arXiv::2510.03970",
+        "source": "arXiv",
+        "source_id": "2510.03970",
+        "title": "Towards Carbon-Aware Container Orchestration: Predicting Workload Energy Consumption with Federated Learning",
+        "year": "2025",
+        "doi": ""
+      }
+    ],
+    "group_id": "CONFLICT-0010",
+    "decision": "retain formal publication and remove preprint",
+    "duplicate_note": "Two records describe the same preprint. Remove one as a duplicate before removing the retained preprint in favor of the formal publication."
+  },
+  {
+    "normalized_title": "neuroscaler towards energy optimal autoscaling for container based services",
+    "distinct_dois": [
+      "10.1109/icc59461.2026.11587459",
+      "10.48550/arxiv.2602.08191"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11587459",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11587459",
+        "title": "NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services",
+        "year": "2026",
+        "doi": "10.1109/icc59461.2026.11587459"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105045422668",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105045422668",
+        "title": "NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services",
+        "year": "2026",
+        "doi": "10.1109/icc59461.2026.11587459"
+      },
+      {
+        "record_id": "DBLP::conf/icc/ChavesMMCSSBCRS26",
+        "source": "DBLP",
+        "source_id": "conf/icc/ChavesMMCSSBCRS26",
+        "title": "NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services.",
+        "year": "2026",
+        "doi": "10.1109/icc59461.2026.11587459"
+      },
+      {
+        "record_id": "DBLP::journals/corr/abs-2602-08191",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2602-08191",
+        "title": "NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services.",
+        "year": "2026",
+        "doi": "10.48550/arxiv.2602.08191"
+      },
+      {
+        "record_id": "arXiv::2602.08191",
+        "source": "arXiv",
+        "source_id": "2602.08191",
+        "title": "NeuroScaler: Towards Energy-Optimal Autoscaling for Container-Based Services",
+        "year": "2026",
+        "doi": ""
+      }
+    ],
+    "group_id": "CONFLICT-0011",
+    "decision": "retain formal publication and remove preprint",
+    "duplicate_note": "Two records describe the same preprint. Remove one as a duplicate before removing the retained preprint in favor of the formal publication."
+  },
+  {
+    "normalized_title": "design and implementation of an iot cluster with raspberry pi powered by solar energy a theoretical approach",
+    "distinct_dois": [
+      "10.1109/concapan66820.2025.11512441",
+      "10.5281/zenodo.14957338"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11512441",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11512441",
+        "title": "Design and Implementation of an IoT Cluster with Raspberry Pi Powered by Solar Energy: A Theoretical Approach",
+        "year": "2025",
+        "doi": "10.1109/concapan66820.2025.11512441"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105040927660",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105040927660",
+        "title": "Design and Implementation of an IoT Cluster with Raspberry Pi Powered by Solar Energy: A Theoretical Approach",
+        "year": "2025",
+        "doi": "10.1109/concapan66820.2025.11512441"
+      },
+      {
+        "record_id": "arXiv::2503.03618",
+        "source": "arXiv",
+        "source_id": "2503.03618",
+        "title": "Design and Implementation of an IoT Cluster with Raspberry Pi Powered by Solar Energy: A Theoretical Approach",
+        "year": "2025",
+        "doi": "10.5281/zenodo.14957338"
+      }
+    ],
+    "group_id": "CONFLICT-0012",
+    "decision": "retain formal publication and remove preprint"
+  },
+  {
+    "normalized_title": "multi cloud management architecture design and disaster recovery strategy for high availability",
+    "distinct_dois": [
+      "10.13052/jcsm2245-1439.1456",
+      "10.13052/jcsm2245-1439.1462"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11304226",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11304226",
+        "title": "Multi-Cloud Management Architecture Design and Disaster Recovery Strategy for High Availability",
+        "year": "2025",
+        "doi": "10.13052/jcsm2245-1439.1456"
+      },
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11370444",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11370444",
+        "title": "Multi-Cloud Management Architecture Design and Disaster Recovery Strategy for High Availability",
+        "year": "2025",
+        "doi": "10.13052/jcsm2245-1439.1462"
+      }
+    ],
+    "group_id": "CONFLICT-0013",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "performance analysis of cloud hypervisor using network package workloads in virtualization",
+    "distinct_dois": [
+      "10.1002/9781394200801.ch12",
+      "10.1109/smart59791.2023.10428173"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10428173",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10428173",
+        "title": "Performance Analysis of Cloud Hypervisor Using Network Package Workloads in Virtualization",
+        "year": "2023",
+        "doi": "10.1109/smart59791.2023.10428173"
+      },
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10951863.pdf&bkn=10950236&pdfType=chapter",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10951863.pdf&bkn=10950236&pdfType=chapter",
+        "title": "Performance Analysis of Cloud Hypervisor Using Network Package Workloads in Virtualization",
+        "year": "2024",
+        "doi": "10.1002/9781394200801.ch12"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85218024789",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85218024789",
+        "title": "Performance analysis of cloud hypervisor using network package workloads in virtualization",
+        "year": "2024",
+        "doi": "10.1002/9781394200801.ch12"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85186746367",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85186746367",
+        "title": "Performance Analysis of Cloud Hypervisor Using Network Package Workloads in Virtualization",
+        "year": "2023",
+        "doi": "10.1109/smart59791.2023.10428173"
+      }
+    ],
+    "group_id": "CONFLICT-0014",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "cross layer ai optimization of signaling and media planes in cloud based contact center architectures",
+    "distinct_dois": [
+      "10.1109/aisei68628.2026.11572741",
+      "10.1109/menacomm69507.2026.11532843"
+    ],
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11572741",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11572741",
+        "title": "Cross-Layer AI Optimization of Signaling and Media Planes in Cloud-Based Contact Center Architectures",
+        "year": "2026",
+        "doi": "10.1109/aisei68628.2026.11572741"
+      },
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11532843",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11532843",
+        "title": "Cross-Layer AI Optimization of Signaling and Media Planes in Cloud-Based Contact Center Architectures",
+        "year": "2026",
+        "doi": "10.1109/menacomm69507.2026.11532843"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105044279261",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105044279261",
+        "title": "Cross-Layer AI Optimization of Signaling and Media Planes in Cloud-Based Contact Center Architectures",
+        "year": "2026",
+        "doi": "10.1109/aisei68628.2026.11572741"
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105041869739",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105041869739",
+        "title": "Cross-Layer AI Optimization of Signaling and Media Planes in Cloud-Based Contact Center Architectures",
+        "year": "2026",
+        "doi": "10.1109/menacomm69507.2026.11532843"
+      }
+    ],
+    "group_id": "CONFLICT-0015",
+    "decision": "keep DOI-distinct reports separate"
+  },
+  {
+    "normalized_title": "power aware container placement in cloud computing with affinity and cubic power model",
+    "distinct_dois": [
+      "10.1007/s00607-025-01566-0",
+      "10.48550/arxiv.2408.01176"
+    ],
+    "members": [
+      {
+        "record_id": "DBLP::journals/computing/SarkarSMS25",
+        "source": "DBLP",
+        "source_id": "journals/computing/SarkarSMS25",
+        "title": "Power aware container placement in cloud computing with affinity and cubic power model.",
+        "year": "2025",
+        "doi": "10.1007/s00607-025-01566-0"
+      },
+      {
+        "record_id": "DBLP::journals/corr/abs-2408-01176",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2408-01176",
+        "title": "Power Aware Container Placement in Cloud Computing with Affinity and Cubic Power Model.",
+        "year": "2024",
+        "doi": "10.48550/arxiv.2408.01176"
+      }
+    ],
+    "group_id": "CONFLICT-0016",
+    "decision": "retain formal publication and remove preprint"
+  },
+  {
+    "normalized_title": "ecolife carbon aware serverless function scheduling for sustainable computing",
+    "distinct_dois": [
+      "10.1109/sc41406.2024.00018",
+      "10.48550/arxiv.2409.02085"
+    ],
+    "members": [
+      {
+        "record_id": "DBLP::conf/sc/0002RLT24",
+        "source": "DBLP",
+        "source_id": "conf/sc/0002RLT24",
+        "title": "EcoLife: Carbon-Aware Serverless Function Scheduling for Sustainable Computing.",
+        "year": "2024",
+        "doi": "10.1109/sc41406.2024.00018"
+      },
+      {
+        "record_id": "DBLP::journals/corr/abs-2409-02085",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2409-02085",
+        "title": "EcoLife: Carbon-Aware Serverless Function Scheduling for Sustainable Computing.",
+        "year": "2024",
+        "doi": "10.48550/arxiv.2409.02085"
+      }
+    ],
+    "group_id": "CONFLICT-0017",
+    "decision": "retain formal publication and remove preprint"
+  },
+  {
+    "normalized_title": "energy efficient scheduling for serverless systems",
+    "distinct_dois": [
+      "10.1109/acsos58161.2023.00020",
+      "10.48550/arxiv.2410.06695"
+    ],
+    "members": [
+      {
+        "record_id": "DBLP::journals/corr/abs-2410-06695",
+        "source": "DBLP",
+        "source_id": "journals/corr/abs-2410-06695",
+        "title": "Energy Efficient Scheduling for Serverless Systems.",
+        "year": "2024",
+        "doi": "10.48550/arxiv.2410.06695"
+      },
+      {
+        "record_id": "DBLP::conf/acsos/TsenosPK23",
+        "source": "DBLP",
+        "source_id": "conf/acsos/TsenosPK23",
+        "title": "Energy Efficient Scheduling for Serverless Systems.",
+        "year": "2023",
+        "doi": "10.1109/acsos58161.2023.00020"
+      }
+    ],
+    "group_id": "CONFLICT-0018",
+    "decision": "retain formal publication and remove preprint"
+  }
+]

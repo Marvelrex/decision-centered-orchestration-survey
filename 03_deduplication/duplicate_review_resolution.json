@@ -1,0 +1,44 @@
+{
+  "records_identified": 4986,
+  "confirmed_exact_duplicate_groups": 454,
+  "exact_duplicate_records_removed": 510,
+  "preprint_duplicate_records_removed": 2,
+  "duplicate_records_removed": 512,
+  "superseded_preprint_records_removed": 10,
+  "records_for_screening": 4464,
+  "merged_no_doi_group_ids": [
+    "EXACT-0058",
+    "EXACT-0095",
+    "EXACT-0334",
+    "EXACT-0400",
+    "EXACT-0406"
+  ],
+  "kept_separate_no_doi_group_ids": [
+    "EXACT-0002",
+    "EXACT-0055",
+    "EXACT-0056",
+    "EXACT-0057",
+    "EXACT-0059",
+    "EXACT-0061",
+    "EXACT-0097",
+    "EXACT-0379"
+  ],
+  "preprint_duplicate_conflict_ids": [
+    "CONFLICT-0010",
+    "CONFLICT-0011"
+  ],
+  "superseded_preprint_conflict_ids": [
+    "CONFLICT-0006",
+    "CONFLICT-0009",
+    "CONFLICT-0010",
+    "CONFLICT-0011",
+    "CONFLICT-0012",
+    "CONFLICT-0016",
+    "CONFLICT-0017",
+    "CONFLICT-0018"
+  ],
+  "superseded_preprint_near_ids": [
+    "NEAR-0002",
+    "NEAR-0003"
+  ]
+}

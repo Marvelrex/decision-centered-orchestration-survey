@@ -1,0 +1,387 @@
+[
+  {
+    "group_id": "EXACT-0002",
+    "record_count": 4,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-85198496010",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85198496010",
+        "title": "7th International Conference on Innovative Computing, IC 2024",
+        "year": "2024",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85198419776",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85198419776",
+        "title": "7th International Conference on Innovative Computing, IC 2024",
+        "year": "2024",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85197779253",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85197779253",
+        "title": "7th International Conference on Innovative Computing, IC 2024",
+        "year": "2024",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85199517864",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85199517864",
+        "title": "7th International Conference on Innovative Computing, IC 2024",
+        "year": "2024",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0055",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-105010155738",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105010155738",
+        "title": "14th Workshop on Mining Humanistic Data, MHDW 2025, 10th Workshop on B5G-Putting Intelligence to the Network Edge, BG5-PINE 2025, 2nd Workshop on AI Applications for Achieving the Green Deal Targets, AI4GD 2025, 1st Workshop on SilverTech: Empowering the Future of Ageing Through Advanced AI-Based Technologies, SilverTech 2025 and 5th Workshop on AI and Ethics, 2025, held as parallel events of the 21st IFIP WG 12.5 International Conference on Artificial Intelligence Applications and Innovations, AIAI 2025",
+        "year": "2025",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105010274385",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105010274385",
+        "title": "14th Workshop on Mining Humanistic Data, MHDW 2025, 10th Workshop on B5G-Putting Intelligence to the Network Edge, BG5-PINE 2025, 2nd Workshop on AI Applications for Achieving the Green Deal Targets, AI4GD 2025, 1st Workshop on SilverTech: Empowering the Future of Ageing Through Advanced AI-Based Technologies, SilverTech 2025 and 5th Workshop on AI and Ethics, 2025, held as parallel events of the 21st IFIP WG 12.5 International Conference on Artificial Intelligence Applications and Innovations, AIAI 2025",
+        "year": "2025",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0056",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-85149982295",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85149982295",
+        "title": "18th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, CollaborateCom 2022",
+        "year": "2022",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85149844754",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85149844754",
+        "title": "18th EAI International Conference on Collaborative Computing: Networking, Applications and Worksharing, CollaborateCom 2022",
+        "year": "2022",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0057",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-105028437406",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105028437406",
+        "title": "23rd International Conference on Service-Oriented Computing, ICSOC 2025",
+        "year": "2026",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105028263157",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105028263157",
+        "title": "23rd International Conference on Service-Oriented Computing, ICSOC 2025",
+        "year": "2026",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0058",
+    "record_count": 2,
+    "sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717831",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8717831",
+        "title": "5G Smart City Vertical Slice",
+        "year": "2019",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85067021441",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85067021441",
+        "title": "5G smart city vertical slice",
+        "year": "2019",
+        "doi": ""
+      }
+    ],
+    "decision": "merge as cross-database duplicate",
+    "evidence_note": "Title, authors, year, and publication identity are compatible."
+  },
+  {
+    "group_id": "EXACT-0059",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-85219199362",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85219199362",
+        "title": "5th International Conference on Computing and Network Communications, CoCoNet 2023",
+        "year": "2025",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105002710107",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105002710107",
+        "title": "5th International Conference on Computing and Network Communications, CoCoNet 2023",
+        "year": "2025",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0061",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-105020589413",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105020589413",
+        "title": "6th International Conference on Computer and Communication Technologies, IC3T 2024",
+        "year": "2026",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105012831132",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105012831132",
+        "title": "6th International Conference on Computer and Communication Technologies, IC3T 2024",
+        "year": "2025",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0095",
+    "record_count": 2,
+    "sources": [
+      "DBLP",
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-85067802264",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85067802264",
+        "title": "A low carbon kubernetes scheduler",
+        "year": "2019",
+        "doi": ""
+      },
+      {
+        "record_id": "DBLP::conf/ict4s/JamesS19",
+        "source": "DBLP",
+        "source_id": "conf/ict4s/JamesS19",
+        "title": "A Low Carbon Kubernetes Scheduler.",
+        "year": "2019",
+        "doi": ""
+      }
+    ],
+    "decision": "merge as cross-database duplicate",
+    "evidence_note": "Title, authors, year, and publication identity are compatible."
+  },
+  {
+    "group_id": "EXACT-0097",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-85123041722",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85123041722",
+        "title": "ACM International Conference Proceeding Series",
+        "year": "2019",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85123043008",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85123043008",
+        "title": "ACM International Conference Proceeding Series",
+        "year": "2019",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0334",
+    "record_count": 2,
+    "sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10522562.pdf&bkn=10522562&pdfType=book",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/xpl/ebooks/bookPdfWithBanner.jsp?fileName=10522562.pdf&bkn=10522562&pdfType=book",
+        "title": "Mastering Linux Administration: Take your sysadmin skills to the next level by configuring and maintaining Linux systems",
+        "year": "2024",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105022386896",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105022386896",
+        "title": "Mastering Linux Administration: Take your sysadmin skills to the next level by configuring and maintaining Linux systems",
+        "year": "2024",
+        "doi": ""
+      }
+    ],
+    "decision": "merge as cross-database duplicate",
+    "evidence_note": "Title, authors, year, and publication identity are compatible."
+  },
+  {
+    "group_id": "EXACT-0379",
+    "record_count": 2,
+    "sources": [
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "Scopus::2-s2.0-85200989254",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85200989254",
+        "title": "Proceedings of the 17th European Conference on Software Architecture, ECSA 2023",
+        "year": "2024",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85172133846",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85172133846",
+        "title": "Proceedings of the 17th European Conference on Software Architecture, ECSA 2023",
+        "year": "2023",
+        "doi": ""
+      }
+    ],
+    "decision": "keep separate",
+    "evidence_note": "Volume, ISBN, year, or proceedings identity differs."
+  },
+  {
+    "group_id": "EXACT-0400",
+    "record_count": 2,
+    "sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9464049",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9464049",
+        "title": "Resource Provisioning in Fog Computing through Deep Reinforcement Learning",
+        "year": "2021",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-85113586083",
+        "source": "Scopus",
+        "source_id": "2-s2.0-85113586083",
+        "title": "Resource Provisioning in Fog Computing through Deep Reinforcement Learning",
+        "year": "2021",
+        "doi": ""
+      }
+    ],
+    "decision": "merge as cross-database duplicate",
+    "evidence_note": "Title, authors, year, and publication identity are compatible."
+  },
+  {
+    "group_id": "EXACT-0406",
+    "record_count": 2,
+    "sources": [
+      "IEEE Xplore",
+      "Scopus"
+    ],
+    "match_basis": "exact DOI or exact normalized title",
+    "members": [
+      {
+        "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11326019",
+        "source": "IEEE Xplore",
+        "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11326019",
+        "title": "Satellite-as-a-Service Architecture for ML Edge Computing on Heterogeneous Processing Platforms",
+        "year": "2025",
+        "doi": ""
+      },
+      {
+        "record_id": "Scopus::2-s2.0-105035065934",
+        "source": "Scopus",
+        "source_id": "2-s2.0-105035065934",
+        "title": "Satellite-as-a-Service Architecture for ML Edge Computing on Heterogeneous Processing Platforms",
+        "year": "2025",
+        "doi": ""
+      }
+    ],
+    "decision": "merge as cross-database duplicate",
+    "evidence_note": "Title, authors, year, and publication identity are compatible."
+  }
+]

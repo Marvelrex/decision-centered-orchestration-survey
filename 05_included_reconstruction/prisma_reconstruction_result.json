@@ -1,0 +1,28 @@
+{
+  "search_cutoff": "2026-08-28",
+  "screening_reviewers": 1,
+  "source_counts": {
+    "ACM Digital Library": 3327,
+    "DBLP": 130,
+    "IEEE Xplore": 668,
+    "Scopus": 773,
+    "arXiv": 88
+  },
+  "records_identified": 4986,
+  "duplicate_records_removed": 512,
+  "records_removed_for_other_reasons": 10,
+  "records_screened": 4464,
+  "database_export_matched_included_reports": 41,
+  "unmatched_included_reports": 42,
+  "records_not_retained_aggregate": 4423,
+  "included_reports": 83,
+  "analytical_role_counts": {
+    "core_intervention": 39,
+    "enabling_infrastructure": 8,
+    "horizon_evidence": 9,
+    "transfer_evidence": 27
+  },
+  "formal_version_substitutions": 4,
+  "stage_specific_exclusion_counts_recoverable": false,
+  "included_studies_status": "83 unique report keys after version consolidation. A separate report-to-study audit has not been documented."
+}

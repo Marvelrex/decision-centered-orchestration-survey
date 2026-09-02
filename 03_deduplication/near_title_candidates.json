@@ -1,0 +1,408 @@
+[
+  {
+    "sequence_similarity": 0.975,
+    "token_jaccard": 0.8333,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2022"
+      ],
+      "dois": [
+        "10.1145/3539814.3539820"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3539814.3539820",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3539814.3539820",
+          "title": "Trending Topics in Software Engineering",
+          "year": "2022",
+          "doi": "10.1145/3539814.3539820"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2022"
+      ],
+      "dois": [
+        "10.1145/3561846.3561847"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3561846.3561847",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3561846.3561847",
+          "title": "Trending Topics in Software Engineering (1)",
+          "year": "2022",
+          "doi": "10.1145/3561846.3561847"
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0001",
+    "decision": "keep separate"
+  },
+  {
+    "sequence_similarity": 0.9291,
+    "token_jaccard": 0.8889,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "IEEE Xplore",
+        "Scopus"
+      ],
+      "years": [
+        "2025"
+      ],
+      "dois": [
+        "10.1109/aiiot65859.2025.11105266"
+      ],
+      "members": [
+        {
+          "record_id": "IEEE Xplore::https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11105266",
+          "source": "IEEE Xplore",
+          "source_id": "https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11105266",
+          "title": "GreenPod: Energy-Optimized Scheduling for AIoT Workloads Using TOPSIS",
+          "year": "2025",
+          "doi": "10.1109/aiiot65859.2025.11105266"
+        },
+        {
+          "record_id": "Scopus::2-s2.0-105015437349",
+          "source": "Scopus",
+          "source_id": "2-s2.0-105015437349",
+          "title": "GreenPod: Energy-Optimized Scheduling for AIoT Workloads Using TOPSIS",
+          "year": "2025",
+          "doi": "10.1109/aiiot65859.2025.11105266"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "arXiv"
+      ],
+      "years": [
+        "2025"
+      ],
+      "dois": [],
+      "members": [
+        {
+          "record_id": "arXiv::2506.04902",
+          "source": "arXiv",
+          "source_id": "2506.04902",
+          "title": "Energy-Optimized Scheduling for AIoT Workloads Using TOPSIS",
+          "year": "2025",
+          "doi": ""
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0002",
+    "decision": "retain formal publication and remove superseded preprint"
+  },
+  {
+    "sequence_similarity": 0.9091,
+    "token_jaccard": 0.8462,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "ACM Digital Library",
+        "Scopus"
+      ],
+      "years": [
+        "2026"
+      ],
+      "dois": [
+        "10.1145/3800959"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3800959",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3800959",
+          "title": "SynergAI: Edge-to-Cloud Synergy for Architecture-Driven High-Performance Orchestration",
+          "year": "2026",
+          "doi": "10.1145/3800959"
+        },
+        {
+          "record_id": "Scopus::2-s2.0-105039662713",
+          "source": "Scopus",
+          "source_id": "2-s2.0-105039662713",
+          "title": "SynergAI: Edge-to-Cloud Synergy for Architecture-Driven High-Performance Orchestration",
+          "year": "2026",
+          "doi": "10.1145/3800959"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "arXiv"
+      ],
+      "years": [
+        "2025"
+      ],
+      "dois": [],
+      "members": [
+        {
+          "record_id": "arXiv::2509.12252",
+          "source": "arXiv",
+          "source_id": "2509.12252",
+          "title": "SynergAI: Edge-to-Cloud Synergy for Architecture-Driven High-Performance Orchestration for AI Inference",
+          "year": "2025",
+          "doi": ""
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0003",
+    "decision": "retain formal publication and remove superseded preprint"
+  },
+  {
+    "sequence_similarity": 0.8987,
+    "token_jaccard": 0.9091,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2020"
+      ],
+      "dois": [
+        "10.1145/3422392.3422467"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3422392.3422467",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3422392.3422467",
+          "title": "Generating Adaptation Plans Based on Quality Models for Cloud Platforms",
+          "year": "2020",
+          "doi": "10.1145/3422392.3422467"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2020"
+      ],
+      "dois": [
+        "10.1145/3425269.3425272"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3425269.3425272",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3425269.3425272",
+          "title": "Generating Trustworthiness Adaptation Plans Based on Quality Models for Cloud Platforms",
+          "year": "2020",
+          "doi": "10.1145/3425269.3425272"
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0004",
+    "decision": "keep separate"
+  },
+  {
+    "sequence_similarity": 0.8718,
+    "token_jaccard": 0.8333,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2026"
+      ],
+      "dois": [
+        "10.1145/3799416"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3799416",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3799416",
+          "title": "Witness Generation for Classical JSON Schema",
+          "year": "2026",
+          "doi": "10.1145/3799416"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2022"
+      ],
+      "dois": [
+        "10.14778/3565838.3565852"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.14778/3565838.3565852",
+          "source": "ACM Digital Library",
+          "source_id": "10.14778/3565838.3565852",
+          "title": "Witness Generation for JSON Schema",
+          "year": "2022",
+          "doi": "10.14778/3565838.3565852"
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0005",
+    "decision": "keep separate"
+  },
+  {
+    "sequence_similarity": 0.8381,
+    "token_jaccard": 0.75,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2025"
+      ],
+      "dois": [
+        "10.1145/3742787"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3742787",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3742787",
+          "title": "Offloading-based Power-Efficient Mobile VTuber Live Streaming",
+          "year": "2025",
+          "doi": "10.1145/3742787"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2024"
+      ],
+      "dois": [
+        "10.1145/3595916.3626427"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3595916.3626427",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3595916.3626427",
+          "title": "Power Efficient Mobile VTuber Live Streaming",
+          "year": "2024",
+          "doi": "10.1145/3595916.3626427"
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0006",
+    "decision": "keep separate"
+  },
+  {
+    "sequence_similarity": 0.7407,
+    "token_jaccard": 0.7143,
+    "token_containment": 0.9091,
+    "left": {
+      "sources": [
+        "DBLP"
+      ],
+      "years": [
+        "2025"
+      ],
+      "dois": [
+        "10.1007/s10878-025-01265-8"
+      ],
+      "members": [
+        {
+          "record_id": "DBLP::journals/jco/SunHLG25",
+          "source": "DBLP",
+          "source_id": "journals/jco/SunHLG25",
+          "title": "Energy-efficient real-time multi-workflow scheduling in container-based cloud.",
+          "year": "2025",
+          "doi": "10.1007/s10878-025-01265-8"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "DBLP"
+      ],
+      "years": [
+        "2023"
+      ],
+      "dois": [
+        "10.1007/978-3-031-49611-0_12"
+      ],
+      "members": [
+        {
+          "record_id": "DBLP::conf/cocoa/SunLGH23",
+          "source": "DBLP",
+          "source_id": "conf/cocoa/SunLGH23",
+          "title": "An Energy-Efficient Scheduling Method for Real-Time Multi-workflow in Container Cloud.",
+          "year": "2023",
+          "doi": "10.1007/978-3-031-49611-0_12"
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0007",
+    "decision": "keep separate"
+  },
+  {
+    "sequence_similarity": 0.6942,
+    "token_jaccard": 0.8333,
+    "token_containment": 1.0,
+    "left": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2019"
+      ],
+      "dois": [
+        "10.1145/3369756"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3369756",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3369756",
+          "title": "The reliability of enterprise applications",
+          "year": "2019",
+          "doi": "10.1145/3369756"
+        }
+      ]
+    },
+    "right": {
+      "sources": [
+        "ACM Digital Library"
+      ],
+      "years": [
+        "2019"
+      ],
+      "dois": [
+        "10.1145/3371595.3374665"
+      ],
+      "members": [
+        {
+          "record_id": "ACM Digital Library::10.1145/3371595.3374665",
+          "source": "ACM Digital Library",
+          "source_id": "10.1145/3371595.3374665",
+          "title": "The Reliability of Enterprise Applications: Understanding enterprise reliability",
+          "year": "2019",
+          "doi": "10.1145/3371595.3374665"
+        }
+      ]
+    },
+    "candidate_id": "NEAR-0008",
+    "decision": "keep separate"
+  }
+]

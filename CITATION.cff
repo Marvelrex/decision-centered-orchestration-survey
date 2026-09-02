@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: If you use this screening record, please cite the accompanying survey.
+title: >-
+  Screening and inclusion record for a decision-centered survey of
+  sustainability-aware container orchestration
+authors:
+  - family-names: Yang
+    given-names: Jialin
+    affiliation: University of Calgary
+    orcid: https://orcid.org/0009-0000-4875-1047
+  - family-names: Saad
+    given-names: Zainab
+    affiliation: University of Calgary
+  - family-names: Wu
+    given-names: Jiajun
+    affiliation: University of Calgary
+    orcid: https://orcid.org/0000-0003-1000-7356
+  - family-names: Niu
+    given-names: Xiaoguang
+    affiliation: Wuhan University
+    orcid: https://orcid.org/0000-0003-4252-3291
+  - family-names: Leung
+    given-names: Henry
+    affiliation: University of Calgary
+    orcid: https://orcid.org/0000-0002-5984-107X
+  - family-names: Drew
+    given-names: Steve
+    affiliation: University of Calgary
+    orcid: https://orcid.org/0000-0003-4527-2635
+license: CC-BY-4.0
+doi: 10.5281/zenodo.22243236
+repository-code: https://github.com/Marvelrex/decision-centered-orchestration-survey
